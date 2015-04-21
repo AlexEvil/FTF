@@ -1,0 +1,48 @@
+AutoECO Report
+FILE-A: C:\ORCAD\ORCAD_10.0\TOOLS\LAYOUT_PLUS\DATA\DEFAULT.TCH
+FILE-B: C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding package TL071
+Adding package R
+Adding package CON12
+Adding package RESISTOR_VAR
+Adding package DIODE
+Adding package CAP_NP
+Adding component U2
+Found footprint DIP.100/8/W.300/L.400 from PRT file for part TL071, comp U2
+Adding component R8
+Found footprint AX/.350X.100/.031 from PRT file for part R, comp R8
+Adding component R6
+Adding component J1
+Found footprint BLKCON.100/RH/TM1SQ/W.425/12 from PRT file for part CON12, comp J1
+Adding component R7
+Adding component U1
+Adding component R5
+Found footprint BLKCON.156/RH/TM1SQS/W.545/3 from PRT file for part RESISTOR_VAR, comp R5
+Adding component D2
+Adding component C2
+Found footprint RAD/.100X.050/LS.100/.031 from PRT file for part CAP_NP, comp C2
+Adding component R4
+Adding component R2
+Adding component R3
+Adding component R1
+Adding component D1
+Adding component C1
+Adding net N00445
+Adding net V+
+Adding net GND
+Adding net N001290
+Adding net V-
+Adding net N00461
+Adding net N00667
+Adding net N00715
+Adding net N01029
+Adding net N01600
+Adding net N01576
+Adding net N01568
+Adding net N01620
+Adding net N01584
+Adding net N014780
+Deleting net DEFAULT
+*EOF*
+No errors found

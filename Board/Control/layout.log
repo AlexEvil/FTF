@@ -1,0 +1,1420 @@
+Thu Sep 14 12:21:59 UserDiv from Layout.INI for AutoECO: 60
+Thu Sep 14 12:21:59 Loaded file C:\ORCAD\ORCAD_10.0\TOOLS\LAYOUT_PLUS\DATA\DEFAULT.TCH
+Thu Sep 14 12:21:59 Loaded file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\MY1.LLB
+Thu Sep 14 12:21:59 Loaded file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\1.LLB
+Thu Sep 14 12:21:59 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\BCON100T.llb
+Thu Sep 14 12:21:59 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\BCON156T.llb
+Thu Sep 14 12:21:59 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\BGA.llb
+Thu Sep 14 12:21:59 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\CLCC.llb
+Thu Sep 14 12:21:59 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DCON050T.llb
+Thu Sep 14 12:21:59 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DCON085T.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DIMM050F.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DIMM050T.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DIN.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DIP100B.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DIP100T.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DSUBT.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DSUBT_HD.LLB
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\ECON100T.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\FBUS.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\ISA.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\JUMPER.LLB
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\LAYOUT.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\LCON100T.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\PC104.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\PCI.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\PCON100T.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\PCON156T.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\PGA.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\PLCC.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\QUAD.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\QUADB.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\RELAY.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\RF.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SBUS.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SIMM050F.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SIMM050T.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SIMM100F.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SIMM100T.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SIP.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SM.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SOG.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SOJ.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\STIFF.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TELE.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_AXIAL.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_CAP_P.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_CYLND.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_DIODE.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_DISC.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_RAD.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TO.llb
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TRAINING.LLB
+Thu Sep 14 12:22:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\VRES.llb
+Thu Sep 14 12:22:01 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\WCON100T.llb
+Thu Sep 14 12:22:01 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\XT.llb
+Thu Sep 14 12:22:01 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\ZIGZAG.llb
+Thu Sep 14 12:22:01 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TO.llb
+Thu Sep 14 12:22:01 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DIP100T.llb
+Thu Sep 14 12:22:01 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DIP100T.llb
+Thu Sep 14 12:22:01 Loaded file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\MY1.LLB
+Thu Sep 14 12:22:01 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SIP.llb
+Thu Sep 14 12:22:01 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DIP100T.llb
+Thu Sep 14 12:22:01 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_AXIAL.llb
+Thu Sep 14 12:22:01 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_CYLND.llb
+Thu Sep 14 12:22:07 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 12:22:07 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 12:22:08 Loaded file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\MY1.LLB
+Thu Sep 14 12:22:10 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 12:22:11 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 12:22:12 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 12:22:13 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 12:22:13 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 12:22:15 Loaded file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\MY1.LLB
+Thu Sep 14 12:22:15 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_RAD.llb
+Thu Sep 14 12:22:15 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\PCON100T.llb
+Thu Sep 14 12:22:15 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\PCON100T.llb
+Thu Sep 14 12:22:15 Loaded file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\MY1.LLB
+Thu Sep 14 12:22:15 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\JUMPER.LLB
+Thu Sep 14 12:22:16 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SOJ.llb
+Thu Sep 14 12:22:16 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\BCON100T.llb
+Thu Sep 14 12:22:16 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\PCON100T.llb
+Thu Sep 14 12:22:16 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\BCON156T.llb
+Thu Sep 14 12:22:17 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Thu Sep 14 12:27:08 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Thu Sep 14 12:27:27 Saved as file BACKUP1.MAX
+Thu Sep 14 12:27:27 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Thu Sep 14 12:27:33 UserDiv from Layout.INI for AutoECO: 60
+Thu Sep 14 12:27:33 Loaded file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Thu Sep 14 12:27:33 Loaded file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\MY1.LLB
+Thu Sep 14 12:27:33 Loaded file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\1.LLB
+Thu Sep 14 12:27:33 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\BCON100T.llb
+Thu Sep 14 12:27:33 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\BCON156T.llb
+Thu Sep 14 12:27:33 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\BGA.llb
+Thu Sep 14 12:27:33 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\CLCC.llb
+Thu Sep 14 12:27:33 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DCON050T.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DCON085T.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DIMM050F.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DIMM050T.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DIN.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DIP100B.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DIP100T.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DSUBT.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DSUBT_HD.LLB
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\ECON100T.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\FBUS.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\ISA.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\JUMPER.LLB
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\LAYOUT.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\LCON100T.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\PC104.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\PCI.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\PCON100T.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\PCON156T.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\PGA.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\PLCC.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\QUAD.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\QUADB.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\RELAY.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\RF.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SBUS.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SIMM050F.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SIMM050T.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SIMM100F.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SIMM100T.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SIP.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SM.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SOG.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SOJ.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\STIFF.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TELE.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_AXIAL.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_CAP_P.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_CYLND.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_DIODE.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_DISC.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_RAD.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TO.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TRAINING.LLB
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\VRES.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\WCON100T.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\XT.llb
+Thu Sep 14 12:27:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\ZIGZAG.llb
+Thu Sep 14 12:27:39 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Thu Sep 14 12:27:40 Loaded file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Thu Sep 14 12:28:21 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Thu Sep 14 12:29:19 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Thu Sep 14 12:37:15 Saved as file BACKUP1.MAX
+Thu Sep 14 12:47:45 Saved as file BACKUP1.MAX
+Thu Sep 14 12:58:15 Saved as file BACKUP1.MAX
+Thu Sep 14 13:08:45 Saved as file BACKUP1.MAX
+Thu Sep 14 13:19:15 Saved as file BACKUP1.MAX
+Thu Sep 14 13:29:45 Saved as file BACKUP1.MAX
+Thu Sep 14 13:40:15 Saved as file BACKUP1.MAX
+Thu Sep 14 13:50:45 Saved as file BACKUP1.MAX
+Thu Sep 14 14:01:15 Saved as file BACKUP1.MAX
+Thu Sep 14 14:11:45 Saved as file BACKUP1.MAX
+Thu Sep 14 14:22:15 Saved as file BACKUP1.MAX
+Thu Sep 14 14:32:45 Saved as file BACKUP1.MAX
+Thu Sep 14 18:34:34 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Thu Sep 14 18:36:23 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Thu Sep 14 18:36:34 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Thu Sep 14 18:36:35 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 18:36:35 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 18:36:36 Loaded file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\MY1.LLB
+Thu Sep 14 18:36:39 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 18:39:44 Loaded file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\MY1.LLB
+Thu Sep 14 18:39:44 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\MY1.LLB
+Thu Sep 14 18:39:55 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 18:39:55 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 18:39:55 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 18:39:55 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 18:39:56 Loaded file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\MY1.LLB
+Thu Sep 14 18:39:58 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 18:40:36 Saved as file ~undo.max
+Thu Sep 14 18:40:43 Saved as file ~undo.max
+Thu Sep 14 18:42:18 Saved as file BACKUP1.MAX
+Thu Sep 14 18:44:35 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Thu Sep 14 18:45:06 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Thu Sep 14 18:52:33 Saved as file ~undo.max
+Thu Sep 14 18:52:48 Saved as file BACKUP1.MAX
+Thu Sep 14 18:53:40 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Thu Sep 14 18:53:43 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Thu Sep 14 19:03:18 Saved as file BACKUP1.MAX
+Thu Sep 14 19:03:52 Saved as file ~undo.max
+Thu Sep 14 19:04:17 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:04:17 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:04:17 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:04:17 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:04:18 Loaded file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\MY1.LLB
+Thu Sep 14 19:04:21 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:04:26 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:04:26 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:04:26 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:04:26 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:04:30 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:04:35 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:04:41 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:04:41 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:04:41 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:04:41 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:04:42 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:04:43 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:04:56 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:04:56 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:04:56 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:04:56 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:04:57 Loaded file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\MY1.LLB
+Thu Sep 14 19:04:58 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:05:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:05:19 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:05:19 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:05:20 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:05:20 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:05:23 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\BCON100T.llb
+Thu Sep 14 19:05:25 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:05:27 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:05:31 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:05:33 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:05:35 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:05:52 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\BCON156T.llb
+Thu Sep 14 19:05:53 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:05:56 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\CLCC.llb
+Thu Sep 14 19:05:59 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DCON085T.llb
+Thu Sep 14 19:06:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DCON050T.llb
+Thu Sep 14 19:06:01 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:06:02 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DIN.llb
+Thu Sep 14 19:06:06 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\ECON100T.llb
+Thu Sep 14 19:06:06 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:06:09 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:06:13 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\LCON100T.llb
+Thu Sep 14 19:06:14 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:06:16 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\PCON100T.llb
+Thu Sep 14 19:06:17 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:06:24 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Thu Sep 14 19:08:39 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Thu Sep 14 19:10:00 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Thu Sep 14 19:19:18 Saved as file BACKUP1.MAX
+Thu Sep 14 19:29:48 Saved as file BACKUP1.MAX
+Thu Sep 14 19:40:18 Saved as file BACKUP1.MAX
+Thu Sep 14 19:50:48 Saved as file BACKUP1.MAX
+Thu Sep 14 19:59:53 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 11:23:23 Saved as file BACKUP1.MAX
+Fri Sep 15 11:31:31 Saved as file ~undo.max
+Fri Sep 15 11:31:43 Saved as file ~undo.max
+Fri Sep 15 11:32:50 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 11:34:53 Saved as file BACKUP1.MAX
+Fri Sep 15 11:39:21 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 11:39:35 Saved as file ~undo.max
+Fri Sep 15 11:44:15 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 12:02:47 Saved as file BACKUP1.MAX
+Fri Sep 15 12:12:06 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 12:12:22 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 12:13:17 Saved as file BACKUP1.MAX
+Fri Sep 15 12:13:58 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 12:15:17 Saved as file ~undo.max
+Fri Sep 15 12:23:47 Saved as file BACKUP1.MAX
+Fri Sep 15 12:34:17 Saved as file BACKUP1.MAX
+Fri Sep 15 12:35:53 Saved as file ~undo.max
+Fri Sep 15 12:35:55 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 12:36:29 Saved as file ~undo.max
+Fri Sep 15 12:36:31 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 12:39:11 Saved as file ~undo.max
+Fri Sep 15 12:40:40 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 12:41:17 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 12:42:49 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Fri Sep 15 12:42:49 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Fri Sep 15 12:42:49 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Fri Sep 15 12:42:49 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Fri Sep 15 12:42:53 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Fri Sep 15 12:42:56 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Fri Sep 15 12:43:01 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\BCON156T.llb
+Fri Sep 15 12:43:06 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\PCON100T.llb
+Fri Sep 15 12:43:09 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Fri Sep 15 12:43:12 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Fri Sep 15 12:44:52 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 12:45:17 Saved as file BACKUP1.MAX
+Fri Sep 15 12:45:25 Saved as file ~undo.max
+Fri Sep 15 12:45:27 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 12:47:48 Saved as file ~undo.max
+Fri Sep 15 12:47:49 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 12:55:08 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 12:55:21 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 12:55:47 Saved as file BACKUP1.MAX
+Fri Sep 15 13:01:31 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Fri Sep 15 13:01:32 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Fri Sep 15 13:01:32 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Fri Sep 15 13:01:32 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Fri Sep 15 13:01:45 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\BCON100T.llb
+Fri Sep 15 13:01:50 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_AXIAL.llb
+Fri Sep 15 13:01:51 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Fri Sep 15 13:02:05 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Fri Sep 15 13:02:45 Saved as file ~undo.max
+Fri Sep 15 13:06:17 Saved as file BACKUP1.MAX
+Fri Sep 15 13:06:22 Saved as file ~undo.max
+Fri Sep 15 13:07:34 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 13:08:03 Saved as file ~undo.max
+Fri Sep 15 13:09:01 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 13:09:40 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 13:10:13 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 13:11:29 Saved as file ~undo.max
+Fri Sep 15 13:11:33 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 13:11:41 Saved as file ~undo.max
+Fri Sep 15 13:11:58 Saved as file ~undo.max
+Fri Sep 15 13:12:02 Saved as file ~undo.max
+Fri Sep 15 13:12:19 Saved as file ~undo.max
+Fri Sep 15 13:12:48 Saved as file ~undo.max
+Fri Sep 15 13:13:33 Saved as file ~undo.max
+Fri Sep 15 13:13:41 Saved as file ~undo.max
+Fri Sep 15 13:13:55 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Fri Sep 15 13:13:55 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Fri Sep 15 13:13:55 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Fri Sep 15 13:13:55 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Fri Sep 15 13:13:57 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\BCON100T.llb
+Fri Sep 15 13:14:01 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_AXIAL.llb
+Fri Sep 15 13:14:02 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Fri Sep 15 13:14:05 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Fri Sep 15 13:16:47 Saved as file BACKUP1.MAX
+Fri Sep 15 13:23:33 Saved as file ~undo.max
+Fri Sep 15 13:24:41 Saved as file ~undo.max
+Fri Sep 15 13:27:17 Saved as file BACKUP1.MAX
+Fri Sep 15 13:27:23 Saved as file ~undo.max
+Fri Sep 15 13:29:27 Saved as file ~undo.max
+Fri Sep 15 13:38:19 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Fri Sep 15 13:38:19 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Fri Sep 15 13:38:19 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Fri Sep 15 13:38:19 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Fri Sep 15 13:38:20 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\BCON156T.llb
+Fri Sep 15 13:38:26 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SIP.llb
+Fri Sep 15 13:38:28 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Fri Sep 15 13:38:44 Saved as file ~undo.max
+Fri Sep 15 13:41:24 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:24 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:24 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:24 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:24 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:25 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:25 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:25 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:25 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:25 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:25 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:25 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:25 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:25 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:25 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:25 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:25 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:26 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:26 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:26 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:26 Routed 36 connections in 1 seconds.
+Fri Sep 15 13:41:26 Total is now 36 out of 150 (24%).
+Fri Sep 15 13:41:26 Saved as file SWEEP1.MAX
+Fri Sep 15 13:41:26 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:28 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:30 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:30 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:30 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:30 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:30 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:31 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:31 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:31 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:32 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:32 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:34 Saved as file BACKUP1.MAX
+Fri Sep 15 13:41:36 Saved as file ~undo.max
+Fri Sep 15 13:41:36 Routed 116 connections in 10 seconds.
+Fri Sep 15 13:41:36 Total is now 80 out of 152 (52%).
+Fri Sep 15 13:41:47 Saved as file BACKUP1.MAX
+Fri Sep 15 13:42:29 Saved as file ~undo.max
+Fri Sep 15 13:42:32 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 13:47:46 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 13:47:48 Saved as file ~undo.max
+Fri Sep 15 13:50:01 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:01 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:01 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:01 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:01 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:01 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:01 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:01 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:01 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:02 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:02 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:02 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:02 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:02 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:02 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:02 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:02 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:02 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:02 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:02 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:02 Routed 21 connections in 1 seconds.
+Fri Sep 15 13:50:02 Total is now 21 out of 150 (14%).
+Fri Sep 15 13:50:02 Saved as file SWEEP1.MAX
+Fri Sep 15 13:50:08 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:17 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:17 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:17 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:19 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:23 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:23 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:25 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:26 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:26 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:26 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:26 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:27 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:38 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:38 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:38 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:38 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:38 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:38 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:38 Saved as file BACKUP1.MAX
+Fri Sep 15 13:50:38 Routed 204 connections in 35 seconds.
+Fri Sep 15 13:50:38 Total is now 141 out of 150 (94%).
+Fri Sep 15 13:50:38 Saved as file SWEEP2.MAX
+Fri Sep 15 13:50:54 Routed 1 connections in 15 seconds.
+Fri Sep 15 13:50:54 Total is now 142 out of 150 (94%).
+Fri Sep 15 13:50:54 Saved as file SWEEP3.MAX
+Fri Sep 15 13:51:47 Saved as file BACKUP1.MAX
+Fri Sep 15 13:51:51 Routed 1 connections in 57 seconds.
+Fri Sep 15 13:51:51 Total is now 142 out of 150 (94%).
+Fri Sep 15 13:51:51 Saved as file SWEEP4.MAX
+Fri Sep 15 13:53:03 Routed 1 connections in 71 seconds.
+Fri Sep 15 13:53:03 Total is now 143 out of 150 (95%).
+Fri Sep 15 13:53:03 Saved as file SWEEP5.MAX
+Fri Sep 15 13:57:41 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:41 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:41 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:41 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:41 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:41 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:41 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:42 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:42 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:42 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:42 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:42 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:42 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:42 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:42 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:42 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:42 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:42 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:43 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:43 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:43 Routed 22 connections in 1 seconds.
+Fri Sep 15 13:57:43 Total is now 22 out of 152 (14%).
+Fri Sep 15 13:57:43 Saved as file SWEEP1.MAX
+Fri Sep 15 13:57:44 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:45 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:45 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:45 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:48 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:59 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:59 Saved as file BACKUP1.MAX
+Fri Sep 15 13:57:59 Saved as file BACKUP1.MAX
+Fri Sep 15 13:58:03 Saved as file BACKUP1.MAX
+Fri Sep 15 13:58:06 Saved as file BACKUP1.MAX
+Fri Sep 15 13:58:06 Saved as file BACKUP1.MAX
+Fri Sep 15 13:58:07 Saved as file BACKUP1.MAX
+Fri Sep 15 13:58:10 Saved as file BACKUP1.MAX
+Fri Sep 15 13:58:17 Saved as file BACKUP1.MAX
+Fri Sep 15 13:58:18 Saved as file BACKUP1.MAX
+Fri Sep 15 13:58:18 Saved as file BACKUP1.MAX
+Fri Sep 15 13:58:27 Saved as file BACKUP1.MAX
+Fri Sep 15 13:58:35 Saved as file BACKUP1.MAX
+Fri Sep 15 13:58:38 Saved as file BACKUP1.MAX
+Fri Sep 15 13:58:38 Saved as file BACKUP1.MAX
+Fri Sep 15 13:58:38 Routed 217 connections in 55 seconds.
+Fri Sep 15 13:58:38 Total is now 144 out of 152 (94%).
+Fri Sep 15 13:58:38 Saved as file SWEEP2.MAX
+Fri Sep 15 13:59:11 Routed 1 connections in 32 seconds.
+Fri Sep 15 13:59:11 Total is now 145 out of 152 (95%).
+Fri Sep 15 13:59:11 Saved as file SWEEP3.MAX
+Fri Sep 15 14:01:14 Routed 1 connections in  2.0 minutes.
+Fri Sep 15 14:01:14 Total is now 145 out of 152 (95%).
+Fri Sep 15 14:01:14 Saved as file SWEEP4.MAX
+Fri Sep 15 14:01:47 Saved as file BACKUP1.MAX
+Fri Sep 15 14:03:02 No new connections routed.
+Fri Sep 15 14:03:02 Total is now 145 out of 152 (95%).
+Fri Sep 15 14:03:02 Saved as file SWEEP5.MAX
+Fri Sep 15 14:07:50 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 14:12:17 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:00 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:00 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:00 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:00 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:00 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:00 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:00 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:00 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:00 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:01 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:01 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:01 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:01 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:01 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:01 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:01 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:01 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:01 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:01 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:01 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:01 Routed 25 connections in 1 seconds.
+Fri Sep 15 14:14:01 Total is now 25 out of 152 (16%).
+Fri Sep 15 14:14:01 Saved as file SWEEP1.MAX
+Fri Sep 15 14:14:06 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:07 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:08 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:08 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:09 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:09 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:09 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:10 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:12 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:23 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:23 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:23 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:26 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:34 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:35 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:35 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:35 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:36 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:36 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:36 Saved as file BACKUP1.MAX
+Fri Sep 15 14:14:36 Routed 214 connections in 34 seconds.
+Fri Sep 15 14:14:36 Total is now 140 out of 152 (92%).
+Fri Sep 15 14:14:36 Saved as file SWEEP2.MAX
+Fri Sep 15 14:15:01 Routed 4 connections in 25 seconds.
+Fri Sep 15 14:15:01 Total is now 144 out of 152 (94%).
+Fri Sep 15 14:15:01 Saved as file SWEEP3.MAX
+Fri Sep 15 14:16:10 Saved as file ~undo.max
+Fri Sep 15 14:17:49 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 14:17:53 Saved as file BACKUP1.MAX
+Fri Sep 15 14:17:53 Saved as file BACKUP1.MAX
+Fri Sep 15 14:17:53 Saved as file BACKUP1.MAX
+Fri Sep 15 14:17:53 Saved as file BACKUP1.MAX
+Fri Sep 15 14:17:54 Saved as file BACKUP1.MAX
+Fri Sep 15 14:17:54 Saved as file BACKUP1.MAX
+Fri Sep 15 14:17:54 Saved as file BACKUP1.MAX
+Fri Sep 15 14:17:54 Saved as file BACKUP1.MAX
+Fri Sep 15 14:17:54 Saved as file BACKUP1.MAX
+Fri Sep 15 14:17:54 Saved as file BACKUP1.MAX
+Fri Sep 15 14:17:54 Saved as file BACKUP1.MAX
+Fri Sep 15 14:17:54 Saved as file BACKUP1.MAX
+Fri Sep 15 14:17:54 Saved as file BACKUP1.MAX
+Fri Sep 15 14:17:54 Saved as file BACKUP1.MAX
+Fri Sep 15 14:17:54 Saved as file BACKUP1.MAX
+Fri Sep 15 14:17:54 Saved as file BACKUP1.MAX
+Fri Sep 15 14:17:55 Saved as file BACKUP1.MAX
+Fri Sep 15 14:17:55 Saved as file BACKUP1.MAX
+Fri Sep 15 14:17:55 Saved as file BACKUP1.MAX
+Fri Sep 15 14:17:55 Saved as file BACKUP1.MAX
+Fri Sep 15 14:17:55 Saved as file BACKUP1.MAX
+Fri Sep 15 14:17:55 Saved as file BACKUP1.MAX
+Fri Sep 15 14:17:55 Saved as file BACKUP1.MAX
+Fri Sep 15 14:17:55 Saved as file BACKUP1.MAX
+Fri Sep 15 14:17:55 Routed 20 connections in 2 seconds.
+Fri Sep 15 14:17:55 Total is now 20 out of 150 (13%).
+Fri Sep 15 14:17:55 Saved as file SWEEP1.MAX
+Fri Sep 15 14:17:59 Saved as file BACKUP1.MAX
+Fri Sep 15 14:18:00 Saved as file BACKUP1.MAX
+Fri Sep 15 14:18:03 Saved as file BACKUP1.MAX
+Fri Sep 15 14:18:03 Saved as file BACKUP1.MAX
+Fri Sep 15 14:18:15 Saved as file BACKUP1.MAX
+Fri Sep 15 14:18:20 Saved as file BACKUP1.MAX
+Fri Sep 15 14:18:22 Saved as file BACKUP1.MAX
+Fri Sep 15 14:18:22 Saved as file BACKUP1.MAX
+Fri Sep 15 14:18:23 Saved as file BACKUP1.MAX
+Fri Sep 15 14:18:23 Saved as file BACKUP1.MAX
+Fri Sep 15 14:18:24 Saved as file BACKUP1.MAX
+Fri Sep 15 14:18:24 Saved as file BACKUP1.MAX
+Fri Sep 15 14:18:27 Saved as file BACKUP1.MAX
+Fri Sep 15 14:18:27 Saved as file BACKUP1.MAX
+Fri Sep 15 14:18:29 Saved as file BACKUP1.MAX
+Fri Sep 15 14:18:29 Saved as file BACKUP1.MAX
+Fri Sep 15 14:18:32 Saved as file BACKUP1.MAX
+Fri Sep 15 14:18:33 Saved as file BACKUP1.MAX
+Fri Sep 15 14:18:33 Saved as file BACKUP1.MAX
+Fri Sep 15 14:18:33 Saved as file BACKUP1.MAX
+Fri Sep 15 14:18:33 Saved as file BACKUP1.MAX
+Fri Sep 15 14:18:33 Saved as file BACKUP1.MAX
+Fri Sep 15 14:18:33 Saved as file BACKUP1.MAX
+Fri Sep 15 14:18:33 Saved as file BACKUP1.MAX
+Fri Sep 15 14:18:33 Routed 204 connections in 38 seconds.
+Fri Sep 15 14:18:33 Total is now 138 out of 150 (92%).
+Fri Sep 15 14:18:34 Saved as file SWEEP2.MAX
+Fri Sep 15 14:18:52 Routed 6 connections in 18 seconds.
+Fri Sep 15 14:18:52 Total is now 144 out of 150 (96%).
+Fri Sep 15 14:18:52 Saved as file SWEEP3.MAX
+Fri Sep 15 14:19:41 Routed 3 connections in 48 seconds.
+Fri Sep 15 14:19:41 Total is now 146 out of 150 (97%).
+Fri Sep 15 14:19:41 Saved as file SWEEP4.MAX
+Fri Sep 15 14:20:14 Routed 2 connections in 32 seconds.
+Fri Sep 15 14:20:14 Total is now 147 out of 150 (98%).
+Fri Sep 15 14:20:14 Saved as file SWEEP5.MAX
+Fri Sep 15 14:22:12 Saved as file ~undo.max
+Fri Sep 15 14:22:42 Saved as file ~undo.max
+Fri Sep 15 14:22:47 Saved as file BACKUP1.MAX
+Fri Sep 15 14:22:50 Saved as file ~undo.max
+Fri Sep 15 14:23:11 Saved as file ~undo.max
+Fri Sep 15 14:23:25 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 14:24:07 Saved as file ~undo.max
+Fri Sep 15 14:26:16 Saved as file ~undo.max
+Fri Sep 15 14:26:23 Saved as file ~undo.max
+Fri Sep 15 14:26:36 Saved as file ~undo.max
+Fri Sep 15 14:27:53 Saved as file ~undo.max
+Fri Sep 15 14:29:13 Saved as file ~undo.max
+Fri Sep 15 14:29:30 Saved as file ~undo.max
+Fri Sep 15 14:29:45 Saved as file ~undo.max
+Fri Sep 15 14:30:38 Saved as file ~undo.max
+Fri Sep 15 14:31:08 Saved as file ~undo.max
+Fri Sep 15 14:31:46 Saved as file ~undo.max
+Fri Sep 15 14:32:30 Saved as file ~undo.max
+Fri Sep 15 14:33:17 Saved as file BACKUP1.MAX
+Fri Sep 15 14:33:20 Saved as file ~undo.max
+Fri Sep 15 14:35:41 Saved as file ~undo.max
+Fri Sep 15 14:36:08 Saved as file ~undo.max
+Fri Sep 15 14:36:20 Saved as file ~undo.max
+Fri Sep 15 14:36:20 Saved as file ~undo.max
+Fri Sep 15 14:36:38 Saved as file ~undo.max
+Fri Sep 15 14:36:45 Saved as file ~undo.max
+Fri Sep 15 14:38:06 Saved as file ~undo.max
+Fri Sep 15 14:38:43 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 14:38:54 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 14:40:15 Saved as file ~undo.max
+Fri Sep 15 14:41:20 Saved as file ~undo.max
+Fri Sep 15 14:41:42 Saved as file ~undo.max
+Fri Sep 15 14:42:29 Saved as file ~undo.max
+Fri Sep 15 14:42:44 Saved as file ~undo.max
+Fri Sep 15 14:43:16 Saved as file ~undo.max
+Fri Sep 15 14:44:09 Saved as file ~undo.max
+Fri Sep 15 14:44:47 Saved as file BACKUP1.MAX
+Fri Sep 15 14:49:15 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 14:53:32 Saved as file ~undo.max
+Fri Sep 15 14:54:20 Saved as file ~undo.max
+Fri Sep 15 14:55:02 Saved as file ~undo.max
+Fri Sep 15 14:57:14 Saved as file ~undo.max
+Fri Sep 15 14:57:17 Saved as file BACKUP1.MAX
+Fri Sep 15 14:57:27 Saved as file ~undo.max
+Fri Sep 15 14:58:26 Saved as file ~undo.max
+Fri Sep 15 14:58:35 Saved as file ~undo.max
+Fri Sep 15 14:58:44 Saved as file ~undo.max
+Fri Sep 15 14:58:59 Saved as file ~undo.max
+Fri Sep 15 14:59:10 Saved as file ~undo.max
+Fri Sep 15 14:59:34 Saved as file ~undo.max
+Fri Sep 15 14:59:56 Saved as file ~undo.max
+Fri Sep 15 15:01:19 Saved as file ~undo.max
+Fri Sep 15 15:01:26 Saved as file ~undo.max
+Fri Sep 15 15:03:01 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 15:08:17 Saved as file BACKUP1.MAX
+Fri Sep 15 15:17:12 Saved as file ~undo.max
+Fri Sep 15 15:17:53 Saved as file ~undo.max
+Fri Sep 15 15:18:47 Saved as file BACKUP1.MAX
+Fri Sep 15 15:19:24 Saved as file ~undo.max
+Fri Sep 15 15:19:35 Saved as file ~undo.max
+Fri Sep 15 15:19:47 Saved as file ~undo.max
+Fri Sep 15 15:19:52 Saved as file ~undo.max
+Fri Sep 15 15:19:57 Saved as file ~undo.max
+Fri Sep 15 15:20:02 Saved as file ~undo.max
+Fri Sep 15 15:20:03 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 15:24:39 Saved as file BACKUP1.MAX
+Fri Sep 15 15:24:39 Saved as file BACKUP1.MAX
+Fri Sep 15 15:24:39 Saved as file BACKUP1.MAX
+Fri Sep 15 15:24:39 Saved as file BACKUP1.MAX
+Fri Sep 15 15:24:39 Saved as file BACKUP1.MAX
+Fri Sep 15 15:24:40 Saved as file BACKUP1.MAX
+Fri Sep 15 15:24:40 Saved as file BACKUP1.MAX
+Fri Sep 15 15:24:40 Saved as file BACKUP1.MAX
+Fri Sep 15 15:24:40 Saved as file BACKUP1.MAX
+Fri Sep 15 15:24:40 Saved as file BACKUP1.MAX
+Fri Sep 15 15:24:40 Saved as file BACKUP1.MAX
+Fri Sep 15 15:24:40 Saved as file BACKUP1.MAX
+Fri Sep 15 15:24:40 Saved as file BACKUP1.MAX
+Fri Sep 15 15:24:40 Saved as file BACKUP1.MAX
+Fri Sep 15 15:24:40 Saved as file BACKUP1.MAX
+Fri Sep 15 15:24:40 Saved as file BACKUP1.MAX
+Fri Sep 15 15:24:41 Saved as file BACKUP1.MAX
+Fri Sep 15 15:24:41 Saved as file BACKUP1.MAX
+Fri Sep 15 15:24:41 Saved as file BACKUP1.MAX
+Fri Sep 15 15:24:41 Saved as file BACKUP1.MAX
+Fri Sep 15 15:24:41 Routed 23 connections in 1 seconds.
+Fri Sep 15 15:24:41 Total is now 23 out of 150 (15%).
+Fri Sep 15 15:24:41 Saved as file SWEEP1.MAX
+Fri Sep 15 15:24:42 Saved as file BACKUP1.MAX
+Fri Sep 15 15:24:43 Saved as file BACKUP1.MAX
+Fri Sep 15 15:24:43 Saved as file BACKUP1.MAX
+Fri Sep 15 15:24:43 Saved as file BACKUP1.MAX
+Fri Sep 15 15:24:45 Saved as file BACKUP1.MAX
+Fri Sep 15 15:24:49 Saved as file ~undo.max
+Fri Sep 15 15:24:49 Routed 40 connections in 7 seconds.
+Fri Sep 15 15:24:49 Total is now 31 out of 151 (20%).
+Fri Sep 15 15:27:55 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:56 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:56 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:56 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:56 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:56 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:56 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:56 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:57 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:57 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:57 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:57 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:57 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:57 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:57 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:57 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:58 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:58 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:58 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:58 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:58 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:58 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:58 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:58 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:59 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:59 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:59 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:59 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:59 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:59 Saved as file BACKUP1.MAX
+Fri Sep 15 15:27:59 Routed 23 connections in 3 seconds.
+Fri Sep 15 15:27:59 Total is now 23 out of 151 (15%).
+Fri Sep 15 15:27:59 Saved as file SWEEP1.MAX
+Fri Sep 15 15:27:59 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:02 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:07 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:08 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:08 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:08 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:10 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:21 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:25 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:26 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:26 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:27 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:32 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:32 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:32 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:33 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:34 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:35 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:35 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:36 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:36 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:36 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:38 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:42 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:42 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:42 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:42 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:42 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:42 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:43 Saved as file BACKUP1.MAX
+Fri Sep 15 15:28:43 Routed 212 connections in 43 seconds.
+Fri Sep 15 15:28:43 Total is now 138 out of 151 (91%).
+Fri Sep 15 15:28:43 Saved as file SWEEP2.MAX
+Fri Sep 15 15:29:05 Routed 3 connections in 22 seconds.
+Fri Sep 15 15:29:05 Total is now 141 out of 151 (93%).
+Fri Sep 15 15:29:05 Saved as file SWEEP3.MAX
+Fri Sep 15 15:29:47 Saved as file BACKUP1.MAX
+Fri Sep 15 15:30:28 Error code 2165.015 (0)
+Fri Sep 15 15:30:28 Saved as file Backup0.max
+Fri Sep 15 15:30:28 Windows which were open at time of error:
+Fri Sep 15 15:30:28 	ActiveWindow: &Route
+Fri Sep 15 15:30:28 	Child: Post Proces&s
+Fri Sep 15 15:30:28 	Icon: &Components
+Fri Sep 15 15:30:28 	Icon: &Nets
+Fri Sep 15 15:30:28 End-of-list
+Fri Sep 15 15:30:29 Loaded file BACKUP0.MAX
+Fri Sep 15 15:32:24 Routed 2 connections in 113 seconds.
+Fri Sep 15 15:32:24 Total is now 142 out of 151 (94%).
+Fri Sep 15 15:32:24 Saved as file SWEEP4.MAX
+Fri Sep 15 15:33:11 Routed 1 connections in 47 seconds.
+Fri Sep 15 15:33:11 Total is now 142 out of 151 (94%).
+Fri Sep 15 15:33:11 Saved as file SWEEP5.MAX
+Fri Sep 15 15:46:16 Saved as file ~undo.max
+Fri Sep 15 15:46:40 Saved as file ~undo.max
+Fri Sep 15 15:50:29 Saved as file BACKUP1.MAX
+Fri Sep 15 16:01:00 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:00 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:00 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:00 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:00 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:01 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:01 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:01 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:01 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:01 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:01 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:01 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:01 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:01 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:01 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:01 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:01 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:02 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:02 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:02 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:02 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:02 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:02 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:02 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:02 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:02 Routed 23 connections in 2 seconds.
+Fri Sep 15 16:03:02 Total is now 23 out of 150 (15%).
+Fri Sep 15 16:03:02 Saved as file SWEEP1.MAX
+Fri Sep 15 16:03:10 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:10 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:12 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:12 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:17 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:17 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:18 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:18 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:19 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:19 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:20 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:20 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:41 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:41 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:42 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:42 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:44 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:44 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:44 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:44 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:44 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:44 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:44 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:44 Saved as file BACKUP1.MAX
+Fri Sep 15 16:03:44 Routed 194 connections in 42 seconds.
+Fri Sep 15 16:03:44 Total is now 142 out of 150 (94%).
+Fri Sep 15 16:03:44 Saved as file SWEEP2.MAX
+Fri Sep 15 16:04:06 Routed 1 connections in 21 seconds.
+Fri Sep 15 16:04:06 Total is now 143 out of 150 (95%).
+Fri Sep 15 16:04:06 Saved as file SWEEP3.MAX
+Fri Sep 15 16:04:22 Error code 2170.092
+Fri Sep 15 16:04:23 Saved as file Backup0.max
+Fri Sep 15 16:04:23 Windows which were open at time of error:
+Fri Sep 15 16:04:23 	ActiveWindow: &Route
+Fri Sep 15 16:04:23 	Icon: &Components
+Fri Sep 15 16:04:23 	Icon: &Nets
+Fri Sep 15 16:04:23 	Icon: Post Proces&s
+Fri Sep 15 16:04:23 End-of-list
+Fri Sep 15 16:04:24 Loaded file BACKUP0.MAX
+Fri Sep 15 16:04:57 Error code 2170.092
+Fri Sep 15 16:04:57 Saved as file Backup0.max
+Fri Sep 15 16:04:57 Windows which were open at time of error:
+Fri Sep 15 16:04:57 	ActiveWindow: &Route
+Fri Sep 15 16:04:57 	Icon: &Components
+Fri Sep 15 16:04:57 	Icon: &Nets
+Fri Sep 15 16:04:57 	Icon: Post Proces&s
+Fri Sep 15 16:04:57 End-of-list
+Fri Sep 15 16:04:57 Loaded file BACKUP0.MAX
+Fri Sep 15 16:05:29 Error code 2170.092
+Fri Sep 15 16:05:29 Saved as file Backup0.max
+Fri Sep 15 16:05:29 Windows which were open at time of error:
+Fri Sep 15 16:05:29 	ActiveWindow: &Route
+Fri Sep 15 16:05:29 	Icon: &Components
+Fri Sep 15 16:05:29 	Icon: &Nets
+Fri Sep 15 16:05:29 	Icon: Post Proces&s
+Fri Sep 15 16:05:29 End-of-list
+Fri Sep 15 16:05:29 Loaded file BACKUP0.MAX
+Fri Sep 15 16:06:02 Error code 2170.092
+Fri Sep 15 16:06:02 Saved as file Backup0.max
+Fri Sep 15 16:06:02 Windows which were open at time of error:
+Fri Sep 15 16:06:02 	ActiveWindow: &Route
+Fri Sep 15 16:06:02 	Icon: &Components
+Fri Sep 15 16:06:02 	Icon: &Nets
+Fri Sep 15 16:06:02 	Icon: Post Proces&s
+Fri Sep 15 16:06:02 End-of-list
+Fri Sep 15 16:06:03 Loaded file BACKUP0.MAX
+Fri Sep 15 16:06:21 Saved as file ~undo.max
+Fri Sep 15 16:16:33 Saved as file BACKUP1.MAX
+Fri Sep 15 16:27:03 Saved as file BACKUP1.MAX
+Fri Sep 15 16:37:33 Saved as file BACKUP1.MAX
+Fri Sep 15 16:40:59 Saved as file ~undo.max
+Fri Sep 15 16:41:10 Saved as file ~undo.max
+Fri Sep 15 16:41:17 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 16:42:36 Saved as file ~undo.max
+Fri Sep 15 16:43:07 Saved as file ~undo.max
+Fri Sep 15 16:43:45 Saved as file ~undo.max
+Fri Sep 15 16:44:30 Saved as file ~undo.max
+Fri Sep 15 16:48:03 Saved as file BACKUP1.MAX
+Fri Sep 15 16:56:46 Saved as file ~undo.max
+Fri Sep 15 16:57:36 Saved as file ~undo.max
+Fri Sep 15 16:58:33 Saved as file BACKUP1.MAX
+Fri Sep 15 16:58:52 Saved as file ~undo.max
+Fri Sep 15 16:59:05 Saved as file ~undo.max
+Fri Sep 15 16:59:14 Saved as file ~undo.max
+Fri Sep 15 17:09:04 Saved as file BACKUP1.MAX
+Fri Sep 15 17:19:33 Saved as file BACKUP1.MAX
+Fri Sep 15 17:26:08 Saved as file ~undo.max
+Fri Sep 15 17:26:26 Saved as file ~undo.max
+Fri Sep 15 17:26:51 Saved as file ~undo.max
+Fri Sep 15 17:27:33 Saved as file ~undo.max
+Fri Sep 15 17:27:44 Saved as file ~undo.max
+Fri Sep 15 17:27:48 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Fri Sep 15 17:30:04 Saved as file BACKUP1.MAX
+Fri Sep 15 17:34:23 Saved as file ~undo.max
+Fri Sep 15 17:39:07 Saved as file ~undo.max
+Fri Sep 15 17:40:33 Saved as file BACKUP1.MAX
+Fri Sep 15 17:48:30 Saved as file ~undo.max
+Fri Sep 15 17:48:35 Saved as file ~undo.max
+Fri Sep 15 17:49:55 Saved as file ~undo.max
+Fri Sep 15 17:50:23 Saved as file ~undo.max
+Fri Sep 15 17:51:03 Saved as file BACKUP1.MAX
+Fri Sep 15 17:51:17 Saved as file ~undo.max
+Fri Sep 15 17:52:08 Saved as file ~undo.max
+Fri Sep 15 18:01:33 Saved as file BACKUP1.MAX
+Fri Sep 15 18:12:03 Saved as file BACKUP1.MAX
+Fri Sep 15 18:22:33 Saved as file BACKUP1.MAX
+Fri Sep 15 18:33:03 Saved as file BACKUP1.MAX
+Fri Sep 15 18:43:33 Saved as file BACKUP1.MAX
+Fri Sep 15 18:54:03 Saved as file BACKUP1.MAX
+Fri Sep 15 19:04:33 Saved as file BACKUP1.MAX
+Fri Sep 15 19:15:03 Saved as file BACKUP1.MAX
+Fri Sep 15 19:15:35 Saved as file ~undo.max
+Fri Sep 15 19:15:39 Saved as file ~undo.max
+Fri Sep 15 19:17:07 Saved as file ~undo.max
+Fri Sep 15 19:17:08 Saved as file ~undo.max
+Fri Sep 15 19:17:13 Saved as file ~undo.max
+Fri Sep 15 19:17:26 Saved as file ~undo.max
+Fri Sep 15 19:17:58 Saved as file ~undo.max
+Fri Sep 15 19:21:09 Saved as file ~undo.max
+Fri Sep 15 19:21:21 Saved as file ~undo.max
+Fri Sep 15 19:22:44 Saved as file ~undo.max
+Fri Sep 15 19:22:51 Saved as file ~undo.max
+Fri Sep 15 19:23:06 Saved as file ~undo.max
+Fri Sep 15 19:23:39 Saved as file ~undo.max
+Fri Sep 15 19:25:03 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sat Sep 16 11:30:25 Saved as file ~undo.max
+Sat Sep 16 11:30:30 Saved as file ~undo.max
+Sat Sep 16 11:30:32 Saved as file ~undo.max
+Sat Sep 16 11:31:20 Saved as file ~undo.max
+Sat Sep 16 11:31:27 Saved as file ~undo.max
+Sat Sep 16 11:31:44 Saved as file ~undo.max
+Sat Sep 16 11:31:46 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sat Sep 16 11:33:32 Saved as file ~undo.max
+Sat Sep 16 11:33:45 Saved as file ~undo.max
+Sat Sep 16 11:34:44 Saved as file ~undo.max
+Sat Sep 16 11:35:03 Saved as file ~undo.max
+Sat Sep 16 11:35:37 Saved as file ~undo.max
+Sat Sep 16 11:35:55 Saved as file ~undo.max
+Sat Sep 16 11:40:27 Saved as file BACKUP1.MAX
+Sat Sep 16 11:50:57 Saved as file BACKUP1.MAX
+Sat Sep 16 12:01:27 Saved as file BACKUP1.MAX
+Sat Sep 16 12:11:57 Saved as file BACKUP1.MAX
+Sat Sep 16 12:22:27 Saved as file BACKUP1.MAX
+Sat Sep 16 12:26:02 Saved as file ~undo.max
+Sat Sep 16 12:26:16 Saved as file ~undo.max
+Sat Sep 16 12:26:29 Saved as file ~undo.max
+Sat Sep 16 12:26:45 Saved as file ~undo.max
+Sat Sep 16 12:27:12 Saved as file ~undo.max
+Sat Sep 16 12:27:20 Saved as file ~undo.max
+Sat Sep 16 12:32:27 Saved as file BACKUP1.MAX
+Sat Sep 16 12:38:44 Saved as file ~undo.max
+Sat Sep 16 12:39:08 Saved as file ~undo.max
+Sat Sep 16 12:39:23 Saved as file ~undo.max
+Sat Sep 16 12:39:36 Saved as file ~undo.max
+Sat Sep 16 12:40:03 Saved as file ~undo.max
+Sat Sep 16 12:40:50 Saved as file ~undo.max
+Sat Sep 16 12:40:59 Saved as file ~undo.max
+Sat Sep 16 12:41:11 Saved as file ~undo.max
+Sat Sep 16 12:41:19 Saved as file ~undo.max
+Sat Sep 16 12:42:06 Saved as file ~undo.max
+Sat Sep 16 12:42:13 Saved as file ~undo.max
+Sat Sep 16 12:42:13 Saved as file ~undo.max
+Sat Sep 16 12:42:19 Saved as file ~undo.max
+Sat Sep 16 12:42:27 Saved as file BACKUP1.MAX
+Sat Sep 16 12:43:00 Saved as file ~undo.max
+Sat Sep 16 12:43:08 Saved as file ~undo.max
+Sat Sep 16 12:43:14 Saved as file ~undo.max
+Sat Sep 16 12:43:22 Saved as file ~undo.max
+Sat Sep 16 12:43:38 Saved as file ~undo.max
+Sat Sep 16 12:44:07 Saved as file ~undo.max
+Sat Sep 16 12:44:09 Saved as file ~undo.max
+Sat Sep 16 12:44:37 Saved as file ~undo.max
+Sat Sep 16 12:44:56 Saved as file ~undo.max
+Sat Sep 16 12:45:15 Saved as file ~undo.max
+Sat Sep 16 12:45:21 Saved as file ~undo.max
+Sat Sep 16 12:46:16 Saved as file ~undo.max
+Sat Sep 16 12:46:33 Saved as file ~undo.max
+Sat Sep 16 12:47:14 Saved as file ~undo.max
+Sat Sep 16 12:48:01 Saved as file ~undo.max
+Sat Sep 16 12:48:09 Saved as file ~undo.max
+Sat Sep 16 12:49:18 Saved as file ~undo.max
+Sat Sep 16 12:49:25 Saved as file ~undo.max
+Sat Sep 16 12:52:05 Saved as file ~undo.max
+Sat Sep 16 12:52:45 Saved as file ~undo.max
+Sat Sep 16 12:52:57 Saved as file BACKUP1.MAX
+Sat Sep 16 12:53:06 Saved as file ~undo.max
+Sat Sep 16 12:53:22 Saved as file ~undo.max
+Sat Sep 16 12:53:51 Saved as file ~undo.max
+Sat Sep 16 12:53:58 Saved as file ~undo.max
+Sat Sep 16 12:54:41 Saved as file ~undo.max
+Sat Sep 16 12:55:17 Saved as file ~undo.max
+Sat Sep 16 12:58:24 Saved as file ~undo.max
+Sat Sep 16 12:59:17 Saved as file ~undo.max
+Sat Sep 16 13:00:21 Saved as file ~undo.max
+Sat Sep 16 13:02:16 Saved as file ~undo.max
+Sat Sep 16 13:03:27 Saved as file BACKUP1.MAX
+Sat Sep 16 13:03:52 Saved as file ~undo.max
+Sat Sep 16 13:04:23 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sat Sep 16 13:04:42 Saved as file ~undo.max
+Sat Sep 16 13:04:54 Saved as file ~undo.max
+Sat Sep 16 13:05:58 Saved as file ~undo.max
+Sat Sep 16 13:06:19 Saved as file ~undo.max
+Sat Sep 16 13:07:03 Saved as file ~undo.max
+Sat Sep 16 13:08:06 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sat Sep 16 13:13:57 Saved as file BACKUP1.MAX
+Sat Sep 16 13:24:27 Saved as file BACKUP1.MAX
+Sat Sep 16 13:34:57 Saved as file BACKUP1.MAX
+Sat Sep 16 13:45:27 Saved as file BACKUP1.MAX
+Sat Sep 16 13:55:57 Saved as file BACKUP1.MAX
+Sat Sep 16 13:59:01 Saved as file ~undo.max
+Sat Sep 16 13:59:44 Saved as file ~undo.max
+Sat Sep 16 14:00:05 Saved as file ~undo.max
+Sat Sep 16 14:00:10 Saved as file ~undo.max
+Sat Sep 16 14:00:45 Saved as file ~undo.max
+Sat Sep 16 14:00:50 Saved as file ~undo.max
+Sat Sep 16 14:01:24 Saved as file ~undo.max
+Sat Sep 16 14:02:52 Saved as file ~undo.max
+Sat Sep 16 14:03:41 Saved as file ~undo.max
+Sat Sep 16 14:04:25 Saved as file ~undo.max
+Sat Sep 16 14:04:35 Saved as file ~undo.max
+Sat Sep 16 14:04:56 Saved as file ~undo.max
+Sat Sep 16 14:04:59 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sat Sep 16 14:06:27 Saved as file BACKUP1.MAX
+Sat Sep 16 14:16:57 Saved as file BACKUP1.MAX
+Sat Sep 16 14:27:27 Saved as file BACKUP1.MAX
+Sat Sep 16 14:37:57 Saved as file BACKUP1.MAX
+Sat Sep 16 14:48:27 Saved as file BACKUP1.MAX
+Sat Sep 16 14:58:57 Saved as file BACKUP1.MAX
+Sat Sep 16 15:09:27 Saved as file BACKUP1.MAX
+Sat Sep 16 15:19:57 Saved as file BACKUP1.MAX
+Sat Sep 16 15:30:27 Saved as file BACKUP1.MAX
+Sat Sep 16 15:40:57 Saved as file BACKUP1.MAX
+Sat Sep 16 15:48:59 Saved as file ~undo.max
+Sat Sep 16 15:49:18 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sat Sep 16 15:49:38 Saved as file ~undo.max
+Sat Sep 16 15:49:50 Saved as file ~undo.max
+Sat Sep 16 15:50:42 Saved as file ~undo.max
+Sat Sep 16 15:50:56 Saved as file ~undo.max
+Sat Sep 16 15:51:27 Saved as file BACKUP1.MAX
+Sat Sep 16 15:51:31 Saved as file ~undo.max
+Sat Sep 16 15:51:40 Saved as file ~undo.max
+Sat Sep 16 15:51:56 Saved as file ~undo.max
+Sat Sep 16 15:52:02 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sat Sep 16 15:52:34 Saved as file ~undo.max
+Sat Sep 16 15:53:06 Saved as file ~undo.max
+Sat Sep 16 15:53:12 Saved as file ~undo.max
+Sat Sep 16 15:53:18 Saved as file ~undo.max
+Sat Sep 16 15:53:32 Saved as file ~undo.max
+Sat Sep 16 15:58:56 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sat Sep 16 16:01:57 Saved as file BACKUP1.MAX
+Sat Sep 16 16:12:27 Saved as file BACKUP1.MAX
+Sat Sep 16 16:22:57 Saved as file BACKUP1.MAX
+Sat Sep 16 16:33:27 Saved as file BACKUP1.MAX
+Sat Sep 16 16:43:57 Saved as file BACKUP1.MAX
+Sat Sep 16 16:49:14 Saved as file ~undo.max
+Sat Sep 16 16:49:44 Saved as file ~undo.max
+Sat Sep 16 16:49:50 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sat Sep 16 16:50:50 Saved as file ~undo.max
+Sat Sep 16 16:51:19 Saved as file ~undo.max
+Sat Sep 16 16:51:23 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sat Sep 16 16:54:27 Saved as file BACKUP1.MAX
+Sat Sep 16 17:04:57 Saved as file BACKUP1.MAX
+Sat Sep 16 17:15:27 Saved as file BACKUP1.MAX
+Sat Sep 16 17:25:57 Saved as file BACKUP1.MAX
+Sat Sep 16 17:36:27 Saved as file BACKUP1.MAX
+Sat Sep 16 17:46:57 Saved as file BACKUP1.MAX
+Sat Sep 16 17:57:27 Saved as file BACKUP1.MAX
+Sat Sep 16 18:07:57 Saved as file BACKUP1.MAX
+Sat Sep 16 18:18:27 Saved as file BACKUP1.MAX
+Sat Sep 16 18:28:57 Saved as file BACKUP1.MAX
+Sat Sep 16 18:39:27 Saved as file BACKUP1.MAX
+Sat Sep 16 18:49:57 Saved as file BACKUP1.MAX
+Sat Sep 16 19:00:27 Saved as file BACKUP1.MAX
+Sat Sep 16 19:10:57 Saved as file BACKUP1.MAX
+Sat Sep 16 19:18:45 Saved as file ~undo.max
+Sat Sep 16 19:18:54 Saved as file ~undo.max
+Sat Sep 16 19:19:21 Saved as file ~undo.max
+Sat Sep 16 19:19:51 Saved as file ~undo.max
+Sat Sep 16 19:21:07 Saved as file ~undo.max
+Sat Sep 16 19:21:19 Saved as file ~undo.max
+Sat Sep 16 19:21:27 Saved as file BACKUP1.MAX
+Sat Sep 16 19:21:49 Saved as file ~undo.max
+Sat Sep 16 19:25:11 Saved as file ~undo.max
+Sat Sep 16 19:25:25 Saved as file ~undo.max
+Sat Sep 16 19:25:31 Saved as file ~undo.max
+Sat Sep 16 19:27:32 Saved as file ~undo.max
+Sat Sep 16 19:27:46 Saved as file ~undo.max
+Sat Sep 16 19:29:30 Saved as file ~undo.max
+Sat Sep 16 19:29:38 Saved as file ~undo.max
+Sat Sep 16 19:29:41 Saved as file ~undo.max
+Sat Sep 16 19:30:09 Saved as file ~undo.max
+Sat Sep 16 19:30:18 Saved as file ~undo.max
+Sat Sep 16 19:31:03 Saved as file ~undo.max
+Sat Sep 16 19:31:12 Saved as file ~undo.max
+Sat Sep 16 19:32:57 Saved as file BACKUP1.MAX
+Sat Sep 16 19:33:07 Saved as file ~undo.max
+Sat Sep 16 19:33:20 Saved as file ~undo.max
+Sat Sep 16 19:33:24 Saved as file ~undo.max
+Sat Sep 16 19:33:49 Saved as file ~undo.max
+Sat Sep 16 19:34:43 Saved as file ~undo.max
+Sat Sep 16 19:34:55 Saved as file ~undo.max
+Sat Sep 16 19:35:18 Saved as file ~undo.max
+Sat Sep 16 19:35:20 Saved as file ~undo.max
+Sat Sep 16 19:35:21 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sat Sep 16 19:35:28 Saved as file ~undo.max
+Sat Sep 16 19:35:35 Saved as file ~undo.max
+Sat Sep 16 19:35:44 Saved as file ~undo.max
+Sat Sep 16 19:36:04 Saved as file ~undo.max
+Sat Sep 16 19:36:27 Saved as file ~undo.max
+Sat Sep 16 19:36:54 Saved as file ~undo.max
+Sat Sep 16 19:37:09 Saved as file ~undo.max
+Sat Sep 16 19:37:17 Saved as file ~undo.max
+Sat Sep 16 19:38:57 Saved as file ~undo.max
+Sat Sep 16 19:39:19 Saved as file ~undo.max
+Sat Sep 16 19:40:12 Saved as file ~undo.max
+Sat Sep 16 19:40:28 Saved as file ~undo.max
+Sat Sep 16 19:43:27 Saved as file ~undo.max
+Sat Sep 16 19:43:32 Saved as file ~undo.max
+Sat Sep 16 19:43:37 Saved as file ~undo.max
+Sat Sep 16 19:43:49 Saved as file ~undo.max
+Sat Sep 16 19:43:57 Saved as file BACKUP1.MAX
+Sat Sep 16 19:43:58 Saved as file ~undo.max
+Sat Sep 16 19:44:20 Saved as file ~undo.max
+Sat Sep 16 19:44:56 Saved as file ~undo.max
+Sat Sep 16 19:45:01 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sun Sep 17 11:00:27 Saved as file ~undo.max
+Sun Sep 17 11:00:41 Saved as file ~undo.max
+Sun Sep 17 11:01:00 Saved as file ~undo.max
+Sun Sep 17 11:02:17 Saved as file ~undo.max
+Sun Sep 17 11:03:28 Saved as file ~undo.max
+Sun Sep 17 11:03:59 Saved as file ~undo.max
+Sun Sep 17 11:06:42 Saved as file BACKUP1.MAX
+Sun Sep 17 11:10:44 Saved as file ~undo.max
+Sun Sep 17 11:11:17 Saved as file ~undo.max
+Sun Sep 17 11:11:36 Saved as file ~undo.max
+Sun Sep 17 11:11:47 Saved as file ~undo.max
+Sun Sep 17 11:11:48 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sun Sep 17 11:12:05 Saved as file ~undo.max
+Sun Sep 17 11:12:21 Saved as file ~undo.max
+Sun Sep 17 11:12:32 Saved as file ~undo.max
+Sun Sep 17 11:12:41 Saved as file ~undo.max
+Sun Sep 17 11:13:00 Saved as file ~undo.max
+Sun Sep 17 11:13:05 Saved as file ~undo.max
+Sun Sep 17 11:14:21 Saved as file ~undo.max
+Sun Sep 17 11:15:01 Saved as file ~undo.max
+Sun Sep 17 11:15:13 Saved as file ~undo.max
+Sun Sep 17 11:16:13 Saved as file ~undo.max
+Sun Sep 17 11:17:01 Saved as file ~undo.max
+Sun Sep 17 11:17:09 Saved as file ~undo.max
+Sun Sep 17 11:17:12 Saved as file BACKUP1.MAX
+Sun Sep 17 11:17:21 Saved as file ~undo.max
+Sun Sep 17 11:17:52 Saved as file ~undo.max
+Sun Sep 17 11:17:59 Saved as file ~undo.max
+Sun Sep 17 11:19:42 Saved as file ~undo.max
+Sun Sep 17 11:20:51 Saved as file ~undo.max
+Sun Sep 17 11:21:35 Saved as file ~undo.max
+Sun Sep 17 11:22:13 Saved as file ~undo.max
+Sun Sep 17 11:22:58 Saved as file ~undo.max
+Sun Sep 17 11:23:30 Saved as file ~undo.max
+Sun Sep 17 11:24:55 Saved as file ~undo.max
+Sun Sep 17 11:25:49 Saved as file ~undo.max
+Sun Sep 17 11:26:30 Saved as file ~undo.max
+Sun Sep 17 11:26:44 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sun Sep 17 11:26:45 Saved as file ~undo.max
+Sun Sep 17 11:27:02 Saved as file ~undo.max
+Sun Sep 17 11:27:12 Saved as file BACKUP1.MAX
+Sun Sep 17 11:27:38 Saved as file ~undo.max
+Sun Sep 17 11:28:19 Saved as file ~undo.max
+Sun Sep 17 11:33:44 Saved as file ~undo.max
+Sun Sep 17 11:34:29 Saved as file ~undo.max
+Sun Sep 17 11:35:10 Saved as file ~undo.max
+Sun Sep 17 11:35:37 Saved as file ~undo.max
+Sun Sep 17 11:36:16 Saved as file ~undo.max
+Sun Sep 17 11:36:51 Saved as file ~undo.max
+Sun Sep 17 11:37:42 Saved as file BACKUP1.MAX
+Sun Sep 17 11:37:45 Saved as file ~undo.max
+Sun Sep 17 11:38:17 Saved as file ~undo.max
+Sun Sep 17 11:38:56 Saved as file ~undo.max
+Sun Sep 17 11:39:34 Saved as file ~undo.max
+Sun Sep 17 11:39:45 Saved as file ~undo.max
+Sun Sep 17 11:39:52 Saved as file ~undo.max
+Sun Sep 17 11:40:03 Saved as file ~undo.max
+Sun Sep 17 11:40:17 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Sun Sep 17 11:40:18 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Sun Sep 17 11:40:21 Loaded file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\1.LLB
+Sun Sep 17 11:40:24 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\LAYOUT.llb
+Sun Sep 17 11:40:25 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Sun Sep 17 11:40:26 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Sun Sep 17 11:40:37 Saved as file ~undo.max
+Sun Sep 17 11:42:00 Saved as file ~undo.max
+Sun Sep 17 11:44:21 Saved as file ~undo.max
+Sun Sep 17 11:44:42 Saved as file ~undo.max
+Sun Sep 17 11:45:10 Saved as file ~undo.max
+Sun Sep 17 11:45:31 Saved as file ~undo.max
+Sun Sep 17 11:45:56 Saved as file ~undo.max
+Sun Sep 17 11:46:23 Saved as file ~undo.max
+Sun Sep 17 11:47:18 Saved as file ~undo.max
+Sun Sep 17 11:47:24 Saved as file ~undo.max
+Sun Sep 17 11:47:40 Saved as file ~undo.max
+Sun Sep 17 11:47:46 Saved as file ~undo.max
+Sun Sep 17 11:47:47 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sun Sep 17 11:48:42 Saved as file BACKUP1.MAX
+Sun Sep 17 11:50:08 Saved as file ~undo.max
+Sun Sep 17 11:51:50 Saved as file ~undo.max
+Sun Sep 17 11:51:57 Saved as file ~undo.max
+Sun Sep 17 11:52:08 Saved as file ~undo.max
+Sun Sep 17 11:52:38 Saved as file ~undo.max
+Sun Sep 17 11:53:19 Saved as file ~undo.max
+Sun Sep 17 11:53:59 Saved as file ~undo.max
+Sun Sep 17 11:54:10 Saved as file ~undo.max
+Sun Sep 17 11:54:25 Saved as file ~undo.max
+Sun Sep 17 11:54:29 Saved as file ~undo.max
+Sun Sep 17 11:54:39 Saved as file ~undo.max
+Sun Sep 17 11:54:51 Saved as file ~undo.max
+Sun Sep 17 11:55:34 Saved as file ~undo.max
+Sun Sep 17 11:55:43 Saved as file ~undo.max
+Sun Sep 17 11:59:12 Saved as file BACKUP1.MAX
+Sun Sep 17 12:06:16 Saved as file ~undo.max
+Sun Sep 17 12:06:22 Saved as file ~undo.max
+Sun Sep 17 12:06:57 Saved as file ~undo.max
+Sun Sep 17 12:07:31 Saved as file ~undo.max
+Sun Sep 17 12:08:09 Saved as file ~undo.max
+Sun Sep 17 12:09:08 Saved as file ~undo.max
+Sun Sep 17 12:09:16 Saved as file ~undo.max
+Sun Sep 17 12:09:33 Saved as file ~undo.max
+Sun Sep 17 12:09:39 Saved as file ~undo.max
+Sun Sep 17 12:09:42 Saved as file BACKUP1.MAX
+Sun Sep 17 12:10:08 Saved as file ~undo.max
+Sun Sep 17 12:10:29 Saved as file ~undo.max
+Sun Sep 17 12:10:42 Saved as file ~undo.max
+Sun Sep 17 12:10:57 Saved as file ~undo.max
+Sun Sep 17 12:11:11 Saved as file ~undo.max
+Sun Sep 17 12:11:38 Saved as file ~undo.max
+Sun Sep 17 12:12:45 Saved as file ~undo.max
+Sun Sep 17 12:12:58 Saved as file ~undo.max
+Sun Sep 17 12:13:08 Saved as file ~undo.max
+Sun Sep 17 12:14:25 Saved as file ~undo.max
+Sun Sep 17 12:14:58 Saved as file ~undo.max
+Sun Sep 17 12:15:14 Saved as file ~undo.max
+Sun Sep 17 12:15:50 Saved as file ~undo.max
+Sun Sep 17 12:16:00 Saved as file ~undo.max
+Sun Sep 17 12:18:12 Saved as file ~undo.max
+Sun Sep 17 12:18:17 Saved as file ~undo.max
+Sun Sep 17 12:18:22 Saved as file ~undo.max
+Sun Sep 17 12:18:48 Saved as file ~undo.max
+Sun Sep 17 12:18:53 Saved as file ~undo.max
+Sun Sep 17 12:19:21 Saved as file ~undo.max
+Sun Sep 17 12:19:49 Saved as file ~undo.max
+Sun Sep 17 12:20:12 Saved as file BACKUP1.MAX
+Sun Sep 17 12:20:25 Saved as file ~undo.max
+Sun Sep 17 12:21:28 Saved as file ~undo.max
+Sun Sep 17 12:22:44 Saved as file ~undo.max
+Sun Sep 17 12:23:08 Saved as file ~undo.max
+Sun Sep 17 12:24:05 Saved as file ~undo.max
+Sun Sep 17 12:24:22 Saved as file ~undo.max
+Sun Sep 17 12:24:29 Saved as file ~undo.max
+Sun Sep 17 12:24:46 Saved as file ~undo.max
+Sun Sep 17 12:25:13 Saved as file ~undo.max
+Sun Sep 17 12:25:31 Saved as file ~undo.max
+Sun Sep 17 12:26:00 Saved as file ~undo.max
+Sun Sep 17 12:26:01 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sun Sep 17 12:26:52 Saved as file ~undo.max
+Sun Sep 17 12:27:11 Saved as file ~undo.max
+Sun Sep 17 12:27:30 Saved as file ~undo.max
+Sun Sep 17 12:27:49 Saved as file ~undo.max
+Sun Sep 17 12:29:11 Saved as file ~undo.max
+Sun Sep 17 12:29:17 Saved as file ~undo.max
+Sun Sep 17 12:29:45 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sun Sep 17 12:30:07 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sun Sep 17 12:30:42 Saved as file BACKUP1.MAX
+Sun Sep 17 12:37:49 Saved as file ~undo.max
+Sun Sep 17 12:38:00 Saved as file ~undo.max
+Sun Sep 17 12:38:15 Saved as file ~undo.max
+Sun Sep 17 12:38:41 Saved as file ~undo.max
+Sun Sep 17 12:39:03 Saved as file ~undo.max
+Sun Sep 17 12:39:24 Saved as file ~undo.max
+Sun Sep 17 12:39:31 Saved as file ~undo.max
+Sun Sep 17 12:40:45 Saved as file ~undo.max
+Sun Sep 17 12:40:53 Saved as file ~undo.max
+Sun Sep 17 12:41:12 Saved as file BACKUP1.MAX
+Sun Sep 17 12:41:22 Saved as file ~undo.max
+Sun Sep 17 12:42:22 Saved as file ~undo.max
+Sun Sep 17 12:42:33 Saved as file ~undo.max
+Sun Sep 17 12:42:46 Saved as file ~undo.max
+Sun Sep 17 12:42:57 Saved as file ~undo.max
+Sun Sep 17 12:43:06 Saved as file ~undo.max
+Sun Sep 17 12:43:16 Saved as file ~undo.max
+Sun Sep 17 12:43:25 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sun Sep 17 12:45:29 Saved as file ~undo.max
+Sun Sep 17 12:45:58 Saved as file ~undo.max
+Sun Sep 17 12:47:24 Saved as file ~undo.max
+Sun Sep 17 12:48:00 Saved as file ~undo.max
+Sun Sep 17 12:48:39 Saved as file ~undo.max
+Sun Sep 17 12:48:59 Saved as file ~undo.max
+Sun Sep 17 12:50:13 Saved as file ~undo.max
+Sun Sep 17 12:50:19 Saved as file ~undo.max
+Sun Sep 17 12:50:30 Saved as file ~undo.max
+Sun Sep 17 12:51:42 Saved as file BACKUP1.MAX
+Sun Sep 17 12:52:20 Saved as file ~undo.max
+Sun Sep 17 12:52:38 Saved as file ~undo.max
+Sun Sep 17 12:52:42 Saved as file ~undo.max
+Sun Sep 17 12:52:50 Saved as file ~undo.max
+Sun Sep 17 12:53:07 Saved as file ~undo.max
+Sun Sep 17 12:54:10 Saved as file ~undo.max
+Sun Sep 17 12:54:28 Saved as file ~undo.max
+Sun Sep 17 12:54:33 Saved as file ~undo.max
+Sun Sep 17 12:54:58 Saved as file ~undo.max
+Sun Sep 17 12:55:03 Saved as file ~undo.max
+Sun Sep 17 12:55:09 Saved as file ~undo.max
+Sun Sep 17 12:56:03 Saved as file ~undo.max
+Sun Sep 17 12:56:42 Saved as file ~undo.max
+Sun Sep 17 12:56:55 Saved as file ~undo.max
+Sun Sep 17 12:57:15 Saved as file ~undo.max
+Sun Sep 17 12:57:48 Saved as file ~undo.max
+Sun Sep 17 12:57:56 Saved as file ~undo.max
+Sun Sep 17 12:57:57 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sun Sep 17 12:58:09 Saved as file ~undo.max
+Sun Sep 17 12:58:50 Saved as file ~undo.max
+Sun Sep 17 12:58:57 Saved as file ~undo.max
+Sun Sep 17 12:58:59 Saved as file ~undo.max
+Sun Sep 17 12:59:27 Saved as file ~undo.max
+Sun Sep 17 12:59:39 Saved as file ~undo.max
+Sun Sep 17 13:00:02 Saved as file ~undo.max
+Sun Sep 17 13:00:58 Saved as file ~undo.max
+Sun Sep 17 13:01:18 Saved as file ~undo.max
+Sun Sep 17 13:01:51 Saved as file ~undo.max
+Sun Sep 17 13:02:03 Saved as file ~undo.max
+Sun Sep 17 13:02:12 Saved as file BACKUP1.MAX
+Sun Sep 17 13:02:17 Saved as file ~undo.max
+Sun Sep 17 13:02:28 Saved as file ~undo.max
+Sun Sep 17 13:02:47 Saved as file ~undo.max
+Sun Sep 17 13:03:12 Saved as file ~undo.max
+Sun Sep 17 13:04:08 Saved as file ~undo.max
+Sun Sep 17 13:04:13 Saved as file ~undo.max
+Sun Sep 17 13:04:46 Saved as file ~undo.max
+Sun Sep 17 13:05:16 Saved as file ~undo.max
+Sun Sep 17 13:05:28 Saved as file ~undo.max
+Sun Sep 17 13:05:40 Saved as file ~undo.max
+Sun Sep 17 13:05:53 Saved as file ~undo.max
+Sun Sep 17 13:06:17 Saved as file ~undo.max
+Sun Sep 17 13:06:26 Saved as file ~undo.max
+Sun Sep 17 13:06:36 Saved as file ~undo.max
+Sun Sep 17 13:08:43 Saved as file ~undo.max
+Sun Sep 17 13:12:16 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sun Sep 17 13:13:42 Saved as file BACKUP1.MAX
+Sun Sep 17 13:14:57 Saved as file ~undo.max
+Sun Sep 17 13:15:28 Saved as file ~undo.max
+Sun Sep 17 13:15:36 Saved as file ~undo.max
+Sun Sep 17 13:16:03 Saved as file ~undo.max
+Sun Sep 17 13:16:28 Saved as file ~undo.max
+Sun Sep 17 13:16:36 Saved as file ~undo.max
+Sun Sep 17 13:16:39 Saved as file ~undo.max
+Sun Sep 17 13:16:54 Saved as file ~undo.max
+Sun Sep 17 13:16:55 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sun Sep 17 13:18:03 Saved as file ~undo.max
+Sun Sep 17 13:18:37 Saved as file ~undo.max
+Sun Sep 17 13:19:19 Saved as file ~undo.max
+Sun Sep 17 13:19:30 Saved as file ~undo.max
+Sun Sep 17 13:19:36 Saved as file ~undo.max
+Sun Sep 17 13:19:52 Saved as file ~undo.max
+Sun Sep 17 13:20:03 Saved as file ~undo.max
+Sun Sep 17 13:20:10 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sun Sep 17 13:21:01 Saved as file ~undo.max
+Sun Sep 17 13:22:22 Saved as file ~undo.max
+Sun Sep 17 13:23:06 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sun Sep 17 13:23:22 Saved as file ~undo.max
+Sun Sep 17 13:24:12 Saved as file BACKUP1.MAX
+Sun Sep 17 13:24:31 Saved as file ~undo.max
+Sun Sep 17 13:24:39 Saved as file ~undo.max
+Sun Sep 17 13:26:51 Saved as file ~undo.max
+Sun Sep 17 13:27:16 Saved as file ~undo.max
+Sun Sep 17 13:27:25 Saved as file ~undo.max
+Sun Sep 17 13:27:42 Saved as file ~undo.max
+Sun Sep 17 13:27:45 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sun Sep 17 13:27:58 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sun Sep 17 13:34:21 Saved as file ~undo.max
+Sun Sep 17 13:34:35 Saved as file ~undo.max
+Sun Sep 17 13:34:39 Saved as file ~undo.max
+Sun Sep 17 13:35:12 Saved as file BACKUP1.MAX
+Sun Sep 17 13:40:00 Saved as file ~undo.max
+Sun Sep 17 13:40:16 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sun Sep 17 13:41:45 Saved as file ~undo.max
+Sun Sep 17 13:41:58 Saved as file ~undo.max
+Sun Sep 17 13:42:03 Saved as file ~undo.max
+Sun Sep 17 13:43:20 Saved as file ~undo.max
+Sun Sep 17 13:43:38 Saved as file ~undo.max
+Sun Sep 17 13:43:39 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sun Sep 17 13:45:37 Saved as file ~undo.max
+Sun Sep 17 13:45:42 Saved as file BACKUP1.MAX
+Sun Sep 17 13:45:47 Saved as file ~undo.max
+Sun Sep 17 13:46:00 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sun Sep 17 13:46:05 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sun Sep 17 13:49:42 Saved as file ~undo.max
+Sun Sep 17 13:49:52 Saved as file ~undo.max
+Sun Sep 17 13:49:53 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sun Sep 17 13:50:17 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Sun Sep 17 13:57:42 Saved as file BACKUP1.MAX
+Sun Sep 17 14:01:29 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Mon Sep 25 18:01:56 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.MAX
+Tue Sep 26 16:21:00 Saved as file BACKUP1.MAX
+Tue Sep 26 16:31:30 Saved as file BACKUP1.MAX
+Tue Sep 26 16:42:00 Saved as file BACKUP1.MAX
+Tue Sep 26 16:52:30 Saved as file BACKUP1.MAX
+Tue Sep 26 17:03:00 Saved as file BACKUP1.MAX
+Fri Oct 06 13:36:22 Saved as file ~undo.max
+Fri Oct 06 13:36:31 Saved as file ~undo.max

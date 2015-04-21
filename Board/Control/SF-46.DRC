@@ -1,0 +1,23 @@
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING:  [DRC0004]  Possible pin type conflict U4,RA4/T0CKI Bidirectional Connected to Output
+                    SCHEMATIC1, PAGE1  (5.10, 3.60) 
+
+Checking for Unconnected Nets
+ERROR:  [DRC0029]  Bus has no name and therefore defines no signals. N205507
+                    SCHEMATIC1, PAGE1  (13.50, 4.10) 
+ERROR:  [DRC0029]  Bus has no name and therefore defines no signals. N00067
+                    SCHEMATIC1, PAGE1  (2.30, 6.10) 
+
+Checking for Invalid References
+ERROR:  [DRC0026]  This reference has already been assigned to a different package type. U2
+                    SCHEMATIC1, PAGE1  (3.20, 3.10) 
+
+Checking for Duplicate References
+
+Check Bus width mismatch

@@ -1,0 +1,105 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\sf-46.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (GATE_&_PIN_SWAP_Scope "0")
+    (GATE_&_PIN_SWAP_File_Name
+       "C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.SWP")
+    (Backannotation_TAB "1")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    ([DRC0038] _Visible_unconnected_Power_Pins_are_connected_to_global_nets
+       "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Report_File
+       "C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\SF_ORCAD\SF-46.DRC")
+    (Netlist_TAB "3")
+    (LAYOUT_Netlist_File "SF-46.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (TRUE)
+    (LAYOUT_Units "0")
+    (TRUE)
+    ([DRC0038] _Visible_unconnected_Power_Pins_are_connected_to_global_nets
+       "FALSE"))
+  (Folder "Outputs"
+    (File ".\sf-46.drc"
+      (Type "Report"))
+    (File ".\sf-46.mnl"
+      (Type "LAYOUT Netlist File")))
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\sf-46.dsn")
+      (Path "Design Resources" ".\sf-46.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" ".\sf-46.dsn" "SCHEMATIC1" "Main"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 32 232 5 424"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 50 823 50 434")
+        (Scroll "-48 -2")
+        (Zoom "54")
+        (Occurrence "/"))
+      (Path
+         "E:\PROJECTS\ELECTRONICS\COMPLETED\SF-46\FTF\BOARD\CONTROL\SF-46.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Main")))
+  (MPSSessionName "EVIL")
+  (PartMRUSelector
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName
+         "E:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("CAP POL"
+      (FullPartName "CAP POL.Normal")
+      (LibraryName
+         "E:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CON4
+      (FullPartName "CON4.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (74HC4050
+      (FullPartName "74HC4050.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\LIBRARY\GATE.OLB")
+      (DeviceIndex "0"))
+    (CON16A
+      (FullPartName "CON16A.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (INDUCTOR
+      (FullPartName "INDUCTOR.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))))

@@ -1,0 +1,681 @@
+Tue Aug 08 14:04:46 UserDiv from Layout.INI for AutoECO: 60
+Tue Aug 08 14:04:46 Loaded file C:\ORCAD\ORCAD_10.0\TOOLS\LAYOUT_PLUS\DATA\DEFAULT.TCH
+Tue Aug 08 14:04:46 Loaded file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\1.LLB
+Tue Aug 08 14:04:46 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\BCON100T.llb
+Tue Aug 08 14:04:46 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\BCON156T.llb
+Tue Aug 08 14:04:46 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\BGA.llb
+Tue Aug 08 14:04:46 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\CLCC.llb
+Tue Aug 08 14:04:46 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DCON050T.llb
+Tue Aug 08 14:04:46 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DCON085T.llb
+Tue Aug 08 14:04:46 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DIMM050F.llb
+Tue Aug 08 14:04:46 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DIMM050T.llb
+Tue Aug 08 14:04:46 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DIN.llb
+Tue Aug 08 14:04:46 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DIP100B.llb
+Tue Aug 08 14:04:46 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DIP100T.llb
+Tue Aug 08 14:04:46 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DSUBT.llb
+Tue Aug 08 14:04:46 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DSUBT_HD.LLB
+Tue Aug 08 14:04:46 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\ECON100T.llb
+Tue Aug 08 14:04:46 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\FBUS.llb
+Tue Aug 08 14:04:46 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\ISA.llb
+Tue Aug 08 14:04:46 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\JUMPER.LLB
+Tue Aug 08 14:04:46 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\LAYOUT.llb
+Tue Aug 08 14:04:46 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\LCON100T.llb
+Tue Aug 08 14:04:46 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\PC104.llb
+Tue Aug 08 14:04:46 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\PCI.llb
+Tue Aug 08 14:04:46 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\PCON100T.llb
+Tue Aug 08 14:04:46 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\PCON156T.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\PGA.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\PLCC.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\QUAD.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\QUADB.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\RELAY.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\RF.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SBUS.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SIMM050F.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SIMM050T.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SIMM100F.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SIMM100T.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SIP.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SM.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SOG.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SOJ.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\STIFF.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TELE.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_AXIAL.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_CAP_P.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_CYLND.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_DIODE.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_DISC.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_RAD.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TO.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TRAINING.LLB
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\VRES.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\WCON100T.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\XT.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\ZIGZAG.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\DIP100T.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_AXIAL.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\BCON100T.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\BCON156T.llb
+Tue Aug 08 14:04:47 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_RAD.llb
+Tue Aug 08 14:04:49 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 14:05:07 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:05:07 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:05:08 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:05:08 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:05:08 Loaded file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\1.LLB
+Tue Aug 08 14:05:10 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:05:14 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 14:05:20 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 14:12:42 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 14:12:48 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 14:15:54 Saved as file BACKUP1.MAX
+Tue Aug 08 14:19:57 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:19:57 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:19:57 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:19:57 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:19:59 Loaded file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\1.LLB
+Tue Aug 08 14:20:08 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_AXIAL.llb
+Tue Aug 08 14:20:10 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:20:14 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:20:15 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:20:56 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:20:56 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:20:56 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:20:56 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:21:00 Loaded file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\1.LLB
+Tue Aug 08 14:21:01 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:21:03 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:21:09 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:21:09 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:21:09 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:21:09 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:21:11 Loaded file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\1.LLB
+Tue Aug 08 14:21:12 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:22:11 Saved as file ~undo.max
+Tue Aug 08 14:22:21 Saved as file ~undo.max
+Tue Aug 08 14:22:25 Saved as file ~undo.max
+Tue Aug 08 14:22:27 Saved as file ~undo.max
+Tue Aug 08 14:22:33 Saved as file ~undo.max
+Tue Aug 08 14:22:48 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 14:22:50 Saved as file ~undo.max
+Tue Aug 08 14:25:17 Saved as file BACKUP1.MAX
+Tue Aug 08 14:25:17 Saved as file BACKUP1.MAX
+Tue Aug 08 14:25:17 Saved as file BACKUP1.MAX
+Tue Aug 08 14:25:18 Saved as file BACKUP1.MAX
+Tue Aug 08 14:25:18 Saved as file BACKUP1.MAX
+Tue Aug 08 14:25:18 Saved as file BACKUP1.MAX
+Tue Aug 08 14:25:18 Routed 4 connections in 0 seconds.
+Tue Aug 08 14:25:18 Total is now 4 out of 36 (11%).
+Tue Aug 08 14:25:18 Saved as file SWEEP1.MAX
+Tue Aug 08 14:25:19 Saved as file BACKUP1.MAX
+Tue Aug 08 14:25:19 Saved as file BACKUP1.MAX
+Tue Aug 08 14:25:19 Saved as file BACKUP1.MAX
+Tue Aug 08 14:25:19 Saved as file BACKUP1.MAX
+Tue Aug 08 14:25:20 Saved as file BACKUP1.MAX
+Tue Aug 08 14:25:20 Saved as file BACKUP1.MAX
+Tue Aug 08 14:25:20 Routed 24 connections in 1 seconds.
+Tue Aug 08 14:25:20 Total is now 17 out of 36 (47%).
+Tue Aug 08 14:25:20 Saved as file SWEEP2.MAX
+Tue Aug 08 14:25:21 Routed 3 connections in 1 seconds.
+Tue Aug 08 14:25:21 Total is now 20 out of 36 (55%).
+Tue Aug 08 14:25:21 Saved as file SWEEP3.MAX
+Tue Aug 08 14:25:23 No new connections routed.
+Tue Aug 08 14:25:23 Total is now 20 out of 36 (55%).
+Tue Aug 08 14:25:23 Saved as file SWEEP4.MAX
+Tue Aug 08 14:25:28 Saved as file ~undo.max
+Tue Aug 08 14:26:54 Saved as file BACKUP1.MAX
+Tue Aug 08 14:28:57 Saved as file ~undo.max
+Tue Aug 08 14:29:00 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 14:29:12 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 14:30:32 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 14:32:57 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:32:57 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:32:58 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:32:58 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:32:58 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\BCON156T.llb
+Tue Aug 08 14:33:03 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_AXIAL.llb
+Tue Aug 08 14:33:03 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:33:17 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:33:44 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:33:46 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:34:53 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:34:53 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:34:53 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:34:53 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:34:53 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\BGA.llb
+Tue Aug 08 14:34:57 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_AXIAL.llb
+Tue Aug 08 14:34:58 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:35:07 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:35:09 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:35:12 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:35:13 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:35:14 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 14:35:56 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 14:38:54 Saved as file BACKUP1.MAX
+Tue Aug 08 14:49:24 Saved as file BACKUP1.MAX
+Tue Aug 08 14:59:54 Saved as file BACKUP1.MAX
+Tue Aug 08 15:09:53 Saved as file ~undo.max
+Tue Aug 08 15:10:24 Saved as file BACKUP1.MAX
+Tue Aug 08 15:10:28 Saved as file ~undo.max
+Tue Aug 08 15:18:37 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:18:37 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:18:37 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:18:37 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:18:38 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\BCON100T.llb
+Tue Aug 08 15:18:43 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_AXIAL.llb
+Tue Aug 08 15:18:44 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:19:13 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:19:17 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:19:22 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:20:45 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 15:21:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:21:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:21:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:21:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:21:01 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\BGA.llb
+Tue Aug 08 15:21:04 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\SIP.llb
+Tue Aug 08 15:21:05 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:21:46 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 15:21:50 Saved as file BACKUP1.MAX
+Tue Aug 08 15:21:50 Routed 7 connections in 0 seconds.
+Tue Aug 08 15:21:50 Total is now 7 out of 36 (19%).
+Tue Aug 08 15:21:50 Saved as file SWEEP1.MAX
+Tue Aug 08 15:21:51 Saved as file BACKUP1.MAX
+Tue Aug 08 15:21:51 Routed 25 connections in 0 seconds.
+Tue Aug 08 15:21:51 Total is now 32 out of 36 (88%).
+Tue Aug 08 15:21:51 Saved as file SWEEP2.MAX
+Tue Aug 08 15:21:53 Routed 2 connections in 2 seconds.
+Tue Aug 08 15:21:53 Total is now 34 out of 36 (94%).
+Tue Aug 08 15:21:53 Saved as file SWEEP3.MAX
+Tue Aug 08 15:21:54 Saved as file BACKUP1.MAX
+Tue Aug 08 15:21:58 No new connections routed.
+Tue Aug 08 15:21:58 Total is now 34 out of 36 (94%).
+Tue Aug 08 15:21:58 Saved as file SWEEP4.MAX
+Tue Aug 08 15:22:02 Routed 1 connections in 4 seconds.
+Tue Aug 08 15:22:02 Total is now 35 out of 36 (97%).
+Tue Aug 08 15:22:02 Saved as file SWEEP5.MAX
+Tue Aug 08 15:26:21 Saved as file BACKUP1.MAX
+Tue Aug 08 15:26:21 Routed 10 connections in 0 seconds.
+Tue Aug 08 15:26:21 Total is now 10 out of 36 (27%).
+Tue Aug 08 15:26:22 Saved as file SWEEP1.MAX
+Tue Aug 08 15:26:22 Saved as file BACKUP1.MAX
+Tue Aug 08 15:26:22 Routed 26 connections in 0 seconds.
+Tue Aug 08 15:26:22 Total is now 36 out of 36 (100%).
+Tue Aug 08 15:26:22 Saved as file SWEEP2.MAX
+Tue Aug 08 15:26:22 No new connections routed.
+Tue Aug 08 15:26:22 Total is now 36 out of 36 (100%).
+Tue Aug 08 15:26:22 Saved as file SWEEP3.MAX
+Tue Aug 08 15:26:22 No new connections routed.
+Tue Aug 08 15:26:22 Total is now 36 out of 36 (100%).
+Tue Aug 08 15:26:22 Saved as file SWEEP4.MAX
+Tue Aug 08 15:26:22 No new connections routed.
+Tue Aug 08 15:26:22 Total is now 36 out of 36 (100%).
+Tue Aug 08 15:26:22 Saved as file SWEEP5.MAX
+Tue Aug 08 15:27:00 Saved as file ~undo.max
+Tue Aug 08 15:27:26 Saved as file ~undo.max
+Tue Aug 08 15:31:03 Saved as file ~undo.max
+Tue Aug 08 15:31:28 Saved as file ~undo.max
+Tue Aug 08 15:33:13 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 15:33:14 Saved as file ~undo.max
+Tue Aug 08 15:33:23 Saved as file BACKUP1.MAX
+Tue Aug 08 15:33:23 Routed 7 connections in 0 seconds.
+Tue Aug 08 15:33:23 Total is now 7 out of 36 (19%).
+Tue Aug 08 15:33:23 Saved as file SWEEP1.MAX
+Tue Aug 08 15:33:24 Saved as file BACKUP1.MAX
+Tue Aug 08 15:33:24 Routed 29 connections in 1 seconds.
+Tue Aug 08 15:33:24 Total is now 36 out of 36 (100%).
+Tue Aug 08 15:33:24 Saved as file SWEEP2.MAX
+Tue Aug 08 15:33:24 No new connections routed.
+Tue Aug 08 15:33:24 Total is now 36 out of 36 (100%).
+Tue Aug 08 15:33:24 Saved as file SWEEP3.MAX
+Tue Aug 08 15:33:24 No new connections routed.
+Tue Aug 08 15:33:24 Total is now 36 out of 36 (100%).
+Tue Aug 08 15:33:25 Saved as file SWEEP4.MAX
+Tue Aug 08 15:33:25 No new connections routed.
+Tue Aug 08 15:33:25 Total is now 36 out of 36 (100%).
+Tue Aug 08 15:33:25 Saved as file SWEEP5.MAX
+Tue Aug 08 15:34:24 Saved as file BACKUP1.MAX
+Tue Aug 08 15:37:35 Saved as file ~undo.max
+Tue Aug 08 15:37:38 Saved as file ~undo.max
+Tue Aug 08 15:37:58 Saved as file ~undo.max
+Tue Aug 08 15:38:02 Saved as file ~undo.max
+Tue Aug 08 15:38:12 Saved as file ~undo.max
+Tue Aug 08 15:38:19 Saved as file ~undo.max
+Tue Aug 08 15:38:28 Saved as file ~undo.max
+Tue Aug 08 15:38:44 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 15:38:45 Saved as file ~undo.max
+Tue Aug 08 15:38:52 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 15:38:53 Saved as file ~undo.max
+Tue Aug 08 15:39:05 Saved as file ~undo.max
+Tue Aug 08 15:39:14 Saved as file ~undo.max
+Tue Aug 08 15:41:51 Saved as file ~undo.max
+Tue Aug 08 15:43:26 Saved as file ~undo.max
+Tue Aug 08 15:43:27 Saved as file ~undo.max
+Tue Aug 08 15:43:28 Saved as file ~undo.max
+Tue Aug 08 15:44:24 Saved as file BACKUP1.MAX
+Tue Aug 08 15:44:26 Saved as file ~undo.max
+Tue Aug 08 15:46:07 Saved as file ~undo.max
+Tue Aug 08 15:46:21 Saved as file ~undo.max
+Tue Aug 08 15:51:59 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:51:59 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:02 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\BCON156T.llb
+Tue Aug 08 15:52:07 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\LAYOUT.llb
+Tue Aug 08 15:52:08 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:09 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:09 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:09 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:10 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:11 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:11 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:11 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:12 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:13 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:13 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:14 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:15 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:15 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:16 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:16 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:17 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:17 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:18 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:18 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:18 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:18 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:19 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:19 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:19 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:19 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:21 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:27 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:28 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:31 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:33 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:33 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:34 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:35 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:35 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:36 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:37 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:52:38 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 15:53:25 Saved as file ~undo.max
+Tue Aug 08 15:53:28 Saved as file ~undo.max
+Tue Aug 08 15:53:34 Saved as file ~undo.max
+Tue Aug 08 15:53:40 Saved as file ~undo.max
+Tue Aug 08 15:53:44 Saved as file ~undo.max
+Tue Aug 08 15:53:46 Saved as file ~undo.max
+Tue Aug 08 15:53:49 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 15:53:54 Saved as file ~undo.max
+Tue Aug 08 15:54:01 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 15:55:40 Saved as file ~undo.max
+Tue Aug 08 15:56:07 Saved as file ~undo.max
+Tue Aug 08 15:56:19 Saved as file ~undo.max
+Tue Aug 08 15:56:24 Saved as file BACKUP1.MAX
+Tue Aug 08 15:57:07 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 15:57:08 Saved as file ~undo.max
+Tue Aug 08 15:58:56 Saved as file BACKUP1.MAX
+Tue Aug 08 15:58:56 Routed 14 connections in 0 seconds.
+Tue Aug 08 15:58:56 Total is now 14 out of 36 (38%).
+Tue Aug 08 15:58:56 Saved as file SWEEP1.MAX
+Tue Aug 08 15:58:56 Saved as file BACKUP1.MAX
+Tue Aug 08 15:58:56 Routed 22 connections in 0 seconds.
+Tue Aug 08 15:58:56 Total is now 36 out of 36 (100%).
+Tue Aug 08 15:58:56 Saved as file SWEEP2.MAX
+Tue Aug 08 15:58:56 No new connections routed.
+Tue Aug 08 15:58:56 Total is now 36 out of 36 (100%).
+Tue Aug 08 15:58:56 Saved as file SWEEP3.MAX
+Tue Aug 08 15:58:56 No new connections routed.
+Tue Aug 08 15:58:56 Total is now 36 out of 36 (100%).
+Tue Aug 08 15:58:56 Saved as file SWEEP4.MAX
+Tue Aug 08 15:58:56 No new connections routed.
+Tue Aug 08 15:58:56 Total is now 36 out of 36 (100%).
+Tue Aug 08 15:58:56 Saved as file SWEEP5.MAX
+Tue Aug 08 16:00:07 Saved as file ~undo.max
+Tue Aug 08 16:04:20 Saved as file ~undo.max
+Tue Aug 08 16:05:06 Saved as file ~undo.max
+Tue Aug 08 16:06:54 Saved as file BACKUP1.MAX
+Tue Aug 08 16:07:44 Saved as file ~undo.max
+Tue Aug 08 16:09:06 Saved as file ~undo.max
+Tue Aug 08 16:10:26 Saved as file ~undo.max
+Tue Aug 08 16:12:20 Saved as file ~undo.max
+Tue Aug 08 16:15:29 Saved as file ~undo.max
+Tue Aug 08 16:16:22 Saved as file ~undo.max
+Tue Aug 08 16:16:51 Saved as file ~undo.max
+Tue Aug 08 16:17:24 Saved as file BACKUP1.MAX
+Tue Aug 08 16:18:25 Saved as file ~undo.max
+Tue Aug 08 16:19:18 Saved as file ~undo.max
+Tue Aug 08 16:19:32 Saved as file ~undo.max
+Tue Aug 08 16:20:32 Saved as file ~undo.max
+Tue Aug 08 16:20:48 Saved as file ~undo.max
+Tue Aug 08 16:21:34 Saved as file ~undo.max
+Tue Aug 08 16:23:44 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 16:25:31 Saved as file ~undo.max
+Tue Aug 08 16:26:34 Saved as file ~undo.max
+Tue Aug 08 16:27:04 Saved as file ~undo.max
+Tue Aug 08 16:27:54 Saved as file ~undo.max
+Tue Aug 08 16:27:54 Saved as file BACKUP1.MAX
+Tue Aug 08 16:28:42 Saved as file ~undo.max
+Tue Aug 08 16:29:48 Saved as file ~undo.max
+Tue Aug 08 16:30:29 Saved as file ~undo.max
+Tue Aug 08 16:32:48 Saved as file ~undo.max
+Tue Aug 08 16:32:53 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 16:33:52 Saved as file ~undo.max
+Tue Aug 08 16:34:08 Saved as file ~undo.max
+Tue Aug 08 16:35:27 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 16:35:27 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 16:35:29 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Tue Aug 08 16:36:38 Saved as file ~undo.max
+Tue Aug 08 16:36:40 Saved as file ~undo.max
+Tue Aug 08 16:36:41 Saved as file ~undo.max
+Tue Aug 08 16:37:54 Saved as file ~undo.max
+Tue Aug 08 16:38:06 Saved as file ~undo.max
+Tue Aug 08 16:38:25 Saved as file ~undo.max
+Tue Aug 08 16:38:33 Saved as file ~undo.max
+Tue Aug 08 16:38:37 Saved as file ~undo.max
+Tue Aug 08 16:39:24 Saved as file BACKUP1.MAX
+Tue Aug 08 16:40:10 Saved as file ~undo.max
+Tue Aug 08 16:40:35 Saved as file ~undo.max
+Tue Aug 08 16:41:22 Saved as file ~undo.max
+Tue Aug 08 16:42:13 Saved as file ~undo.max
+Tue Aug 08 16:43:22 Saved as file ~undo.max
+Tue Aug 08 16:43:59 Saved as file ~undo.max
+Tue Aug 08 16:44:31 Saved as file ~undo.max
+Tue Aug 08 16:45:19 Saved as file ~undo.max
+Tue Aug 08 16:45:25 Saved as file ~undo.max
+Tue Aug 08 16:45:41 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 16:46:00 Saved as file ~undo.max
+Tue Aug 08 16:46:08 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 16:46:48 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 16:47:42 Saved as file ~undo.max
+Tue Aug 08 16:47:44 Saved as file ~undo.max
+Tue Aug 08 16:47:59 Saved as file ~undo.max
+Tue Aug 08 16:48:02 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 16:48:36 Saved as file ~undo.max
+Tue Aug 08 16:48:55 Saved as file ~undo.max
+Tue Aug 08 16:49:12 Saved as file ~undo.max
+Tue Aug 08 16:49:29 Saved as file ~undo.max
+Tue Aug 08 16:50:24 Saved as file BACKUP1.MAX
+Tue Aug 08 16:50:38 Saved as file ~undo.max
+Tue Aug 08 16:50:39 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 16:51:44 Saved as file ~undo.max
+Tue Aug 08 16:52:56 Saved as file ~undo.max
+Tue Aug 08 16:53:50 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 16:54:49 Saved as file ~undo.max
+Tue Aug 08 16:55:45 Saved as file ~undo.max
+Tue Aug 08 16:55:47 Saved as file ~undo2.max
+Tue Aug 08 16:55:48 Loaded file ~undo.max
+Tue Aug 08 16:55:49 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 16:56:58 Saved as file ~undo.max
+Tue Aug 08 16:57:03 Saved as file ~undo.max
+Tue Aug 08 16:57:04 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 16:57:42 Saved as file ~undo.max
+Tue Aug 08 16:58:12 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 17:01:24 Saved as file BACKUP1.MAX
+Tue Aug 08 17:11:54 Saved as file BACKUP1.MAX
+Tue Aug 08 17:22:54 Saved as file BACKUP1.MAX
+Tue Aug 08 17:33:24 Saved as file BACKUP1.MAX
+Tue Aug 08 17:43:54 Saved as file BACKUP1.MAX
+Tue Aug 08 17:54:24 Saved as file BACKUP1.MAX
+Tue Aug 08 18:04:54 Saved as file BACKUP1.MAX
+Tue Aug 08 18:15:24 Saved as file BACKUP1.MAX
+Tue Aug 08 18:25:54 Saved as file BACKUP1.MAX
+Tue Aug 08 18:36:24 Saved as file BACKUP1.MAX
+Tue Aug 08 18:44:57 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Tue Aug 08 19:15:32 Saved as file BACKUP1.MAX
+Tue Aug 08 19:20:32 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Wed Aug 09 14:43:35 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Wed Aug 09 14:43:35 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Wed Aug 09 14:43:37 Loaded file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\1.LLB
+Wed Aug 09 14:43:39 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Wed Aug 09 14:44:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Wed Aug 09 14:44:00 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Wed Aug 09 14:44:39 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Wed Aug 09 14:44:41 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Wed Aug 09 14:44:41 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Wed Aug 09 14:45:40 Loaded file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\1.LLB
+Wed Aug 09 14:45:40 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\1.LLB
+Wed Aug 09 14:45:53 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Wed Aug 09 14:45:53 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Wed Aug 09 14:45:53 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Wed Aug 09 14:45:53 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Wed Aug 09 14:45:55 Loaded file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\1.LLB
+Wed Aug 09 14:45:56 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Wed Aug 09 14:46:46 Saved as file ~undo.max
+Wed Aug 09 14:47:11 Saved as file ~undo.max
+Wed Aug 09 14:47:13 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Wed Aug 09 14:47:19 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Wed Aug 09 14:48:41 Saved as file ~undo.max
+Wed Aug 09 14:50:43 Saved as file BACKUP1.MAX
+Wed Aug 09 14:53:10 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Wed Aug 09 15:18:30 Saved as file ~undo.max
+Wed Aug 09 15:24:16 Saved as file BACKUP1.MAX
+Wed Aug 09 15:40:46 Saved as file BACKUP1.MAX
+Wed Aug 09 15:42:04 Saved as file ~undo.max
+Wed Aug 09 15:42:33 Saved as file ~undo.max
+Wed Aug 09 15:42:37 Saved as file ~undo.max
+Wed Aug 09 15:44:22 Saved as file ~undo.max
+Wed Aug 09 15:44:35 Saved as file ~undo.max
+Wed Aug 09 15:45:57 Saved as file ~undo.max
+Wed Aug 09 15:51:35 Saved as file ~undo.max
+Wed Aug 09 15:51:37 Saved as file ~undo.max
+Wed Aug 09 15:52:24 Saved as file ~undo.max
+Wed Aug 09 15:52:31 Saved as file ~undo.max
+Wed Aug 09 15:53:01 Saved as file ~undo.max
+Wed Aug 09 15:53:46 Saved as file BACKUP1.MAX
+Wed Aug 09 15:54:38 Saved as file ~undo.max
+Wed Aug 09 15:54:47 Saved as file ~undo.max
+Wed Aug 09 15:54:57 Saved as file ~undo.max
+Wed Aug 09 15:55:18 Saved as file ~undo.max
+Wed Aug 09 15:55:27 Saved as file ~undo.max
+Wed Aug 09 15:55:35 Saved as file ~undo.max
+Wed Aug 09 15:57:52 Saved as file ~undo.max
+Wed Aug 09 15:57:54 Saved as file ~undo.max
+Wed Aug 09 15:58:24 Saved as file ~undo.max
+Wed Aug 09 15:58:30 Saved as file ~undo.max
+Wed Aug 09 15:59:07 Saved as file ~undo.max
+Wed Aug 09 15:59:13 Saved as file ~undo.max
+Wed Aug 09 15:59:18 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Wed Aug 09 16:00:17 Saved as file ~undo.max
+Wed Aug 09 16:01:51 Saved as file ~undo.max
+Wed Aug 09 16:02:24 Saved as file ~undo.max
+Wed Aug 09 16:02:41 Saved as file ~undo.max
+Wed Aug 09 16:02:49 Saved as file ~undo.max
+Wed Aug 09 16:04:35 Saved as file ~undo.max
+Wed Aug 09 16:05:16 Saved as file BACKUP1.MAX
+Wed Aug 09 16:05:25 Saved as file ~undo.max
+Wed Aug 09 16:06:59 Saved as file ~undo.max
+Wed Aug 09 16:07:28 Saved as file ~undo.max
+Wed Aug 09 16:07:29 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Wed Aug 09 16:08:05 Saved as file ~undo.max
+Wed Aug 09 16:15:37 Saved as file ~undo.max
+Wed Aug 09 16:15:46 Saved as file BACKUP1.MAX
+Wed Aug 09 16:20:59 Saved as file ~undo.max
+Wed Aug 09 16:21:20 Saved as file ~undo.max
+Wed Aug 09 16:23:57 Saved as file ~undo.max
+Wed Aug 09 16:24:59 Saved as file ~undo.max
+Wed Aug 09 16:26:29 Saved as file ~undo.max
+Wed Aug 09 16:26:40 Saved as file ~undo.max
+Wed Aug 09 16:26:46 Saved as file BACKUP1.MAX
+Wed Aug 09 16:26:46 Saved as file ~undo.max
+Wed Aug 09 16:26:48 Saved as file ~undo.max
+Wed Aug 09 16:29:01 Saved as file ~undo.max
+Wed Aug 09 16:29:13 Saved as file ~undo.max
+Wed Aug 09 16:29:29 Saved as file ~undo.max
+Wed Aug 09 16:29:37 Saved as file ~undo.max
+Wed Aug 09 16:30:02 Saved as file ~undo.max
+Wed Aug 09 16:31:58 Saved as file ~undo.max
+Wed Aug 09 16:32:26 Saved as file ~undo.max
+Wed Aug 09 16:32:58 Saved as file ~undo.max
+Wed Aug 09 16:35:51 Saved as file ~undo.max
+Wed Aug 09 16:36:11 Saved as file ~undo.max
+Wed Aug 09 16:37:29 Saved as file ~undo.max
+Wed Aug 09 16:37:42 Saved as file ~undo.max
+Wed Aug 09 16:38:16 Saved as file BACKUP1.MAX
+Wed Aug 09 16:38:53 Saved as file ~undo.max
+Wed Aug 09 16:41:51 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Wed Aug 09 16:45:07 Saved as file ~undo.max
+Wed Aug 09 16:48:05 Saved as file ~undo.max
+Wed Aug 09 16:51:04 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Wed Aug 09 16:51:08 Saved as file Backup0.max
+Wed Aug 09 16:51:08 Windows which were open at time of error:
+Wed Aug 09 16:51:08 	ActiveWindow: &Design
+Wed Aug 09 16:51:08 	Child: Post Proces&s
+Wed Aug 09 16:51:08 	Icon: &Components
+Wed Aug 09 16:51:08 	Icon: &Nets
+Wed Aug 09 16:51:08 End-of-list
+Wed Aug 09 16:51:09 Loaded file BACKUP0.MAX
+Wed Aug 09 16:51:18 Saved as file ~undo.max
+Wed Aug 09 16:51:34 Saved as file ~undo.max
+Wed Aug 09 17:01:39 Saved as file BACKUP1.MAX
+Wed Aug 09 17:01:39 Saved as file ~undo.max
+Wed Aug 09 17:02:48 Saved as file ~undo.max
+Wed Aug 09 17:03:06 Saved as file ~undo.max
+Wed Aug 09 17:03:12 Saved as file ~undo.max
+Wed Aug 09 17:03:19 Saved as file ~undo.max
+Wed Aug 09 17:03:59 Saved as file ~undo.max
+Wed Aug 09 17:04:02 Saved as file ~undo.max
+Wed Aug 09 17:06:20 Saved as file ~undo.max
+Wed Aug 09 17:06:21 Saved as file ~undo.max
+Wed Aug 09 17:06:37 Saved as file ~undo.max
+Wed Aug 09 17:07:45 Saved as file ~undo.max
+Wed Aug 09 17:11:31 Saved as file ~undo.max
+Wed Aug 09 17:11:47 Saved as file ~undo.max
+Wed Aug 09 17:12:00 Saved as file ~undo.max
+Wed Aug 09 17:13:12 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Wed Aug 09 17:16:39 Saved as file BACKUP1.MAX
+Wed Aug 09 17:20:17 Saved as file ~undo.max
+Wed Aug 09 17:20:19 Saved as file ~undo.max
+Wed Aug 09 17:20:52 Saved as file ~undo.max
+Wed Aug 09 17:27:39 Saved as file BACKUP1.MAX
+Wed Aug 09 17:38:09 Saved as file BACKUP1.MAX
+Wed Aug 09 17:42:04 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Fri Aug 11 12:55:17 Saved as file BACKUP1.MAX
+Fri Aug 11 12:55:36 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Sat Aug 26 17:49:31 Saved as file ~undo.max
+Sat Aug 26 17:50:26 Saved as file ~undo.max
+Sat Aug 26 17:50:57 Saved as file ~undo.max
+Sat Aug 26 17:51:16 Saved as file ~undo.max
+Sat Aug 26 17:52:03 Saved as file ~undo.max
+Sat Aug 26 17:52:11 Saved as file ~undo.max
+Sat Aug 26 17:55:15 Saved as file ~undo.max
+Sat Aug 26 17:55:44 Saved as file ~undo.max
+Sat Aug 26 17:55:45 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Sat Aug 26 17:55:52 Saved as file ~undo.max
+Sat Aug 26 17:56:01 Saved as file ~undo.max
+Sat Aug 26 17:56:07 Saved as file ~undo.max
+Sat Aug 26 17:56:11 Saved as file ~undo.max
+Sat Aug 26 17:56:56 Saved as file ~undo.max
+Sat Aug 26 17:57:29 Saved as file ~undo.max
+Sat Aug 26 17:58:02 Saved as file ~undo.max
+Sat Aug 26 17:58:17 Saved as file ~undo.max
+Sat Aug 26 17:58:44 Saved as file ~undo.max
+Sat Aug 26 18:00:33 Saved as file BACKUP1.MAX
+Sat Aug 26 18:01:24 Saved as file ~undo.max
+Sat Aug 26 18:01:40 Saved as file ~undo.max
+Sat Aug 26 18:02:15 Saved as file ~undo.max
+Sat Aug 26 18:04:19 Saved as file ~undo.max
+Sat Aug 26 18:04:40 Saved as file ~undo.max
+Sat Aug 26 18:04:49 Saved as file ~undo.max
+Sat Aug 26 18:04:49 Saved as file ~undo.max
+Sat Aug 26 18:04:54 Saved as file ~undo.max
+Sat Aug 26 18:05:00 Saved as file ~undo.max
+Sat Aug 26 18:05:00 Saved as file ~undo.max
+Sat Aug 26 18:05:17 Saved as file ~undo.max
+Sat Aug 26 18:08:23 Saved as file ~undo.max
+Sat Aug 26 18:08:30 Saved as file ~undo.max
+Sat Aug 26 18:08:37 Saved as file ~undo.max
+Sat Aug 26 18:08:38 Saved as file ~undo.max
+Sat Aug 26 18:08:53 Saved as file ~undo.max
+Sat Aug 26 18:08:54 Saved as file ~undo.max
+Sat Aug 26 18:10:06 Saved as file ~undo.max
+Sat Aug 26 18:11:33 Saved as file BACKUP1.MAX
+Sat Aug 26 18:15:34 Saved as file ~undo.max
+Sat Aug 26 18:15:53 Saved as file ~undo.max
+Sat Aug 26 18:18:22 Saved as file ~undo.max
+Sat Aug 26 18:18:41 Saved as file ~undo.max
+Sat Aug 26 18:19:38 Saved as file ~undo.max
+Sat Aug 26 18:20:58 Saved as file ~undo.max
+Sat Aug 26 18:22:10 Saved as file ~undo.max
+Sat Aug 26 18:22:33 Saved as file BACKUP1.MAX
+Sat Aug 26 18:27:47 Saved as file ~undo.max
+Sat Aug 26 18:27:57 Saved as file ~undo.max
+Sat Aug 26 18:28:02 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Sat Aug 26 18:28:02 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Sat Aug 26 18:28:02 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Sat Aug 26 18:28:02 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Sat Aug 26 18:28:10 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat Aug 26 18:28:11 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Sat Aug 26 18:28:27 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Sat Aug 26 18:28:30 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Sat Aug 26 18:28:35 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Sat Aug 26 18:28:40 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Sat Aug 26 18:29:23 Saved as file ~undo.max
+Sat Aug 26 18:29:33 Saved as file ~undo.max
+Sat Aug 26 18:30:20 Saved as file ~undo.max
+Sat Aug 26 18:30:35 Saved as file ~undo.max
+Sat Aug 26 18:30:57 Saved as file ~undo.max
+Sat Aug 26 18:31:16 Saved as file ~undo.max
+Sat Aug 26 18:31:35 Saved as file ~undo.max
+Sat Aug 26 18:32:21 Saved as file ~undo.max
+Sat Aug 26 18:32:40 Saved as file ~undo.max
+Sat Aug 26 18:33:21 Saved as file ~undo.max
+Sat Aug 26 18:33:33 Saved as file ~undo.max
+Sat Aug 26 18:34:03 Saved as file BACKUP1.MAX
+Sat Aug 26 18:35:09 Saved as file ~undo.max
+Sat Aug 26 18:37:40 Saved as file ~undo.max
+Sat Aug 26 18:38:22 Saved as file ~undo.max
+Sat Aug 26 18:38:26 Saved as file ~undo.max
+Sat Aug 26 18:38:30 Saved as file ~undo.max
+Sat Aug 26 18:38:45 Saved as file ~undo.max
+Sat Aug 26 18:39:15 Saved as file ~undo.max
+Sat Aug 26 18:39:26 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Sat Aug 26 18:39:26 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Sat Aug 26 18:39:26 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Sat Aug 26 18:39:26 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Sat Aug 26 18:39:28 Loaded file C:\OrCAD\OrCAD_10.0\tools\Layout_Plus\data\template.imp
+Sat Aug 26 18:39:36 Saved as file ~undo.max
+Sat Aug 26 18:40:52 Saved as file ~undo.max
+Sat Aug 26 18:41:41 Saved as file ~undo.max
+Sat Aug 26 18:42:24 Saved as file ~undo.max
+Sat Aug 26 18:42:43 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Sat Aug 26 18:43:24 Saved as file ~undo.max
+Sat Aug 26 18:45:33 Saved as file BACKUP1.MAX
+Sat Aug 26 18:45:38 Saved as file ~undo.max
+Sat Aug 26 18:52:16 Saved as file ~undo.max
+Sat Aug 26 18:52:51 Saved as file ~undo.max
+Sat Aug 26 18:53:11 Saved as file ~undo.max
+Sat Aug 26 18:53:49 Saved as file ~undo.max
+Sat Aug 26 18:54:29 Saved as file ~undo.max
+Sat Aug 26 18:55:28 Saved as file ~undo.max
+Sat Aug 26 18:55:48 Saved as file ~undo.max
+Sat Aug 26 18:56:33 Saved as file BACKUP1.MAX
+Sat Aug 26 18:56:43 Saved as file ~undo.max
+Sat Aug 26 18:58:41 Saved as file ~undo.max
+Sat Aug 26 18:59:15 Saved as file ~undo.max
+Sat Aug 26 18:59:45 Saved as file ~undo.max
+Sat Aug 26 18:59:57 Saved as file ~undo.max
+Sat Aug 26 19:00:00 Saved as file ~undo.max
+Sat Aug 26 19:00:04 Saved as file ~undo.max
+Sat Aug 26 19:02:03 Saved as file ~undo.max
+Sat Aug 26 19:04:59 Saved as file ~undo.max
+Sat Aug 26 19:05:30 Saved as file ~undo.max
+Sat Aug 26 19:06:18 Saved as file ~undo.max
+Sat Aug 26 19:06:49 Saved as file ~undo.max
+Sat Aug 26 19:07:13 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Sat Aug 26 19:08:03 Saved as file BACKUP1.MAX
+Sat Aug 26 19:08:35 Saved as file ~undo.max
+Sat Aug 26 19:09:06 Saved as file ~undo.max
+Sat Aug 26 19:09:45 Saved as file ~undo.max
+Sat Aug 26 19:10:39 Saved as file ~undo.max
+Sat Aug 26 19:11:19 Saved as file ~undo.max
+Sat Aug 26 19:11:33 Saved as file ~undo.max
+Sat Aug 26 19:11:40 Saved as file ~undo.max
+Sat Aug 26 19:13:43 Saved as file ~undo.max
+Sat Aug 26 19:18:27 Saved as file ~undo.max
+Sat Aug 26 19:18:33 Saved as file BACKUP1.MAX
+Sat Aug 26 19:27:58 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Sun Aug 27 12:57:50 Saved as file BACKUP1.MAX
+Sun Aug 27 13:08:20 Saved as file BACKUP1.MAX
+Sun Aug 27 13:12:42 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
+Fri Sep 01 13:22:30 Saved as file C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\MY_WORK\AMP_SF-46\AMP-1.MAX
